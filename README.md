@@ -31,5 +31,9 @@ Ce projet est une solution complète d'analyse de données (*End-to-End*) appliq
 2. Ouvrir le notebook dans `03_Python_Analysis/` pour explorer les visualisations statistiques.
 3. Lancer `Dashboard_Comportement_Client.pbix` dans Power BI Desktop pour manipuler les filtres et les métriques de vente.
 
----
-*Projet réalisé par **Mohamed Alakhouch** dans le cadre d'un portfolio en Data Analytics.*
+## Auteur
+
+**Mohamed Alakhouch**
+
+📧 Email : Mohamed.alllakhouch@gmail.com
+🔗 LinkedIn : [linkedin.com/in/mohamed-alakhouch-b9b641233](https://linkedin.com/in/mohamed-alakhouch-b9b641233)
