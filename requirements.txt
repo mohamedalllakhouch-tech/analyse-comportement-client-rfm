@@ -1,0 +1,14 @@
+# Data Manipulation & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Database & Excel I/O
+pyodbc>=4.0.39
+openpyxl>=3.1.0
+
+# Environment
+jupyterlab>=4.0.0

@@ -1,0 +1,801 @@
+﻿Transaction_ID,Customer_ID,Transaction_Date,Category,Unit_Price,Quantity,Total_Amount,Payment_Method,City,Gender,Age
+TXN_0001,CUST_035,2024-10-15,Maison,240.68,3,722.04,Livraison,Fès,F,63
+TXN_0002,CUST_028,2024-05-14,Électronique,1284.27,2,2568.54,Carte Bancaire,Casablanca,F,64
+TXN_0003,CUST_023,2024-03-02,Alimentation,1486.25,2,2972.5,Virement,Marrakech,M,44
+TXN_0004,CUST_035,2024-08-14,Alimentation,1946.25,3,5838.75,Carte Bancaire,Fès,F,63
+TXN_0005,CUST_005,2024-08-05,Maison,1093.19,3,3279.57,Livraison,Agadir,M,45
+TXN_0006,CUST_013,2024-06-27,Électronique,697.28,2,1394.56,Carte Bancaire,Fès,F,27
+TXN_0007,CUST_023,2024-08-18,Alimentation,1125.7,1,1125.7,Carte Bancaire,Marrakech,M,44
+TXN_0008,CUST_032,2024-07-05,Maison,406.32,2,812.64,Livraison,Rabat,M,28
+TXN_0009,CUST_006,2024-10-10,Beauté,515.04,2,1030.08,Livraison,Rabat,M,63
+TXN_0010,CUST_011,2024-05-07,Mode,331.97,1,331.97,Virement,Marrakech,F,50
+TXN_0011,CUST_033,2024-10-09,Électronique,1654.23,1,1654.23,Virement,Marrakech,F,43
+TXN_0012,CUST_039,2024-07-16,Maison,893.08,1,893.08,Carte Bancaire,Marrakech,F,36
+TXN_0013,CUST_024,2024-06-08,Électronique,867.29,2,1734.58,Carte Bancaire,Rabat,F,64
+TXN_0014,CUST_012,2024-10-21,Mode,1453.31,1,1453.31,Carte Bancaire,Tanger,M,34
+TXN_0015,CUST_017,2024-07-05,Électronique,1955.57,2,3911.14,Virement,Fès,M,40
+TXN_0016,CUST_037,2024-08-11,Électronique,1305.27,2,2610.54,Livraison,Fès,F,43
+TXN_0017,CUST_026,2024-06-08,Beauté,253.62,3,760.86,Carte Bancaire,Agadir,F,48
+TXN_0018,CUST_038,2024-10-06,Alimentation,1301.38,2,2602.76,Livraison,Tanger,F,30
+TXN_0019,CUST_011,2024-08-27,Électronique,386.36,3,1159.08,Livraison,Marrakech,F,50
+TXN_0020,CUST_016,2024-09-15,Beauté,719.32,3,2157.96,Livraison,Marrakech,F,59
+TXN_0021,CUST_003,2024-05-26,Beauté,1325.83,1,1325.83,Carte Bancaire,Tanger,M,48
+TXN_0022,CUST_040,2024-05-07,Mode,1691.65,3,5074.95,Carte Bancaire,Marrakech,F,27
+TXN_0023,CUST_025,2024-05-30,Mode,590.09,2,1180.18,Carte Bancaire,Fès,M,60
+TXN_0024,CUST_002,2024-09-10,Beauté,1160.76,3,3482.28,Virement,Agadir,M,23
+TXN_0025,CUST_009,2024-08-20,Maison,1430.68,3,4292.04,Livraison,Tanger,M,55
+TXN_0026,CUST_033,2024-04-25,Maison,1877.71,2,3755.42,Livraison,Marrakech,F,43
+TXN_0027,CUST_035,2024-04-21,Électronique,1360.65,1,1360.65,Livraison,Fès,F,63
+TXN_0028,CUST_018,2024-07-12,Maison,1338.73,1,1338.73,Carte Bancaire,Fès,F,35
+TXN_0029,CUST_004,2024-10-15,Alimentation,439.76,3,1319.28,Virement,Agadir,M,37
+TXN_0030,CUST_017,2024-05-07,Électronique,1130.83,3,3392.49,Virement,Fès,M,40
+TXN_0031,CUST_022,2024-01-22,Alimentation,1024.81,3,3074.43,Virement,Casablanca,F,45
+TXN_0032,CUST_034,2024-10-03,Électronique,1196.12,1,1196.12,Carte Bancaire,Marrakech,F,20
+TXN_0033,CUST_019,2024-01-04,Maison,1560.25,1,1560.25,Livraison,Rabat,M,64
+TXN_0034,CUST_029,2024-02-15,Alimentation,1778.64,1,1778.64,Carte Bancaire,Casablanca,M,20
+TXN_0035,CUST_024,2024-06-29,Maison,1962.63,3,5887.89,Carte Bancaire,Rabat,F,64
+TXN_0036,CUST_021,2024-06-09,Maison,422.04,1,422.04,Livraison,Agadir,F,43
+TXN_0037,CUST_031,2024-02-23,Mode,1867.03,2,3734.06,Livraison,Tanger,F,26
+TXN_0038,CUST_032,2024-05-30,Mode,582.91,2,1165.82,Livraison,Rabat,M,28
+TXN_0039,CUST_026,2024-09-29,Électronique,359.58,2,719.16,Virement,Agadir,F,48
+TXN_0040,CUST_029,2024-06-18,Mode,1639.22,1,1639.22,Carte Bancaire,Casablanca,M,20
+TXN_0041,CUST_007,2024-02-05,Alimentation,469.12,2,938.24,Livraison,Tanger,M,53
+TXN_0042,CUST_012,2024-05-22,Beauté,1199.84,3,3599.52,Virement,Tanger,M,34
+TXN_0043,CUST_022,2024-02-20,Électronique,394.58,2,789.16,Carte Bancaire,Casablanca,F,45
+TXN_0044,CUST_022,2024-02-27,Électronique,170.96,2,341.92,Virement,Casablanca,F,45
+TXN_0045,CUST_037,2024-09-20,Alimentation,615.93,1,615.93,Virement,Fès,F,43
+TXN_0046,CUST_004,2024-09-18,Alimentation,469.32,2,938.64,Virement,Agadir,M,37
+TXN_0047,CUST_035,2024-05-23,Alimentation,1942.12,2,3884.24,Livraison,Fès,F,63
+TXN_0048,CUST_019,2024-05-24,Maison,934.05,3,2802.15,Livraison,Rabat,M,64
+TXN_0049,CUST_037,2024-04-26,Électronique,1408.15,1,1408.15,Livraison,Fès,F,43
+TXN_0050,CUST_001,2024-08-26,Mode,555.6,2,1111.2,Carte Bancaire,Marrakech,F,61
+TXN_0051,CUST_040,2024-08-24,Alimentation,1312.71,1,1312.71,Virement,Marrakech,F,27
+TXN_0052,CUST_005,2024-10-04,Alimentation,897.24,2,1794.48,Virement,Agadir,M,45
+TXN_0053,CUST_037,2024-03-26,Électronique,749.57,1,749.57,Virement,Fès,F,43
+TXN_0054,CUST_030,2024-08-25,Beauté,433.13,2,866.26,Livraison,Tanger,M,44
+TXN_0055,CUST_021,2024-02-08,Beauté,429.08,2,858.16,Carte Bancaire,Agadir,F,43
+TXN_0056,CUST_023,2024-09-06,Mode,1903.38,2,3806.76,Virement,Marrakech,M,44
+TXN_0057,CUST_010,2024-09-06,Maison,1055.96,1,1055.96,Carte Bancaire,Agadir,F,33
+TXN_0058,CUST_004,2024-01-16,Mode,150.37,3,451.11,Livraison,Agadir,M,37
+TXN_0059,CUST_035,2024-02-02,Électronique,1641.29,3,4923.87,Carte Bancaire,Fès,F,63
+TXN_0060,CUST_012,2024-03-05,Électronique,1337.82,3,4013.46,Carte Bancaire,Tanger,M,34
+TXN_0061,CUST_013,2024-01-12,Mode,174.03,2,348.06,Virement,Fès,F,27
+TXN_0062,CUST_023,2024-03-30,Alimentation,1705.26,2,3410.52,Livraison,Marrakech,M,44
+TXN_0063,CUST_034,2024-04-24,Électronique,1042.47,2,2084.94,Carte Bancaire,Marrakech,F,20
+TXN_0064,CUST_011,2024-08-04,Alimentation,1938.4,2,3876.8,Carte Bancaire,Marrakech,F,50
+TXN_0065,CUST_009,2024-07-10,Maison,1981.96,2,3963.92,Carte Bancaire,Tanger,M,55
+TXN_0066,CUST_022,2024-02-10,Maison,1527.57,2,3055.14,Carte Bancaire,Casablanca,F,45
+TXN_0067,CUST_145,2024-11-13,Électronique,3952.31,1,3952.31,Carte Bancaire,Tanger,F,69
+TXN_0068,CUST_035,2024-11-11,Alimentation,530.42,1,530.42,Carte Bancaire,Fès,F,63
+TXN_0069,CUST_116,2024-04-20,Mode,1172.2,2,2344.4,Livraison,Casablanca,F,31
+TXN_0070,CUST_167,2024-01-14,Maison,2436.06,2,4872.12,Carte Bancaire,Fès,M,49
+TXN_0071,CUST_018,2024-08-18,Électronique,5023.68,4,20094.72,Livraison,Fès,F,35
+TXN_0072,CUST_111,2024-03-24,Mode,351.9,3,1055.7,Carte Bancaire,Tanger,F,25
+TXN_0073,CUST_046,2024-05-09,Électronique,1736.9,4,6947.6,Livraison,Marrakech,M,26
+TXN_0074,CUST_071,2024-08-18,Mode,755.33,2,1510.66,Virement,Agadir,F,59
+TXN_0075,CUST_096,2024-11-21,Électronique,2804.2,1,2804.2,Virement,Fès,M,23
+TXN_0076,CUST_073,2024-05-24,Beauté,975.02,1,975.02,Virement,Tanger,F,49
+TXN_0077,CUST_127,2024-12-10,Alimentation,298.07,3,894.21,Carte Bancaire,Marrakech,F,58
+TXN_0078,CUST_096,2024-01-28,Alimentation,310.2,2,620.4,Carte Bancaire,Fès,M,23
+TXN_0079,CUST_118,2024-03-06,Électronique,6041.66,1,6041.66,Livraison,Marrakech,M,50
+TXN_0080,CUST_144,2024-06-11,Alimentation,737.81,2,1475.62,Carte Bancaire,Casablanca,M,39
+TXN_0081,CUST_115,2024-08-16,Mode,1785.03,4,7140.12,Livraison,Agadir,F,58
+TXN_0082,CUST_119,2024-09-17,Beauté,756.65,2,1513.3,Carte Bancaire,Agadir,M,39
+TXN_0083,CUST_116,2024-06-12,Alimentation,985.43,2,1970.86,Carte Bancaire,Casablanca,F,31
+TXN_0084,CUST_076,2024-10-27,Alimentation,202.54,2,405.08,Carte Bancaire,Marrakech,M,68
+TXN_0085,CUST_070,2024-10-29,Mode,1908.98,1,1908.98,Virement,Casablanca,F,44
+TXN_0086,CUST_183,2024-10-13,Beauté,1218.49,2,2436.98,Carte Bancaire,Marrakech,F,35
+TXN_0087,CUST_123,2024-01-10,Maison,2366.03,2,4732.06,Livraison,Tanger,M,50
+TXN_0088,CUST_046,2024-07-13,Alimentation,1508.14,1,1508.14,Carte Bancaire,Marrakech,M,26
+TXN_0089,CUST_099,2024-04-27,Alimentation,1227.8,3,3683.4,Livraison,Rabat,M,53
+TXN_0090,CUST_067,2024-09-26,Maison,771.61,2,1543.22,Carte Bancaire,Rabat,M,44
+TXN_0091,CUST_186,2024-03-20,Électronique,8694.66,3,26083.98,Virement,Rabat,M,52
+TXN_0092,CUST_001,2024-04-02,Maison,1966.2,3,5898.6,Virement,Marrakech,F,61
+TXN_0093,CUST_046,2024-09-22,Alimentation,971.67,1,971.67,Carte Bancaire,Marrakech,M,26
+TXN_0094,CUST_074,2024-11-27,Mode,388.33,2,776.66,Virement,Rabat,F,56
+TXN_0095,CUST_098,2024-12-15,Électronique,643.67,2,1287.34,Virement,Marrakech,F,23
+TXN_0096,CUST_170,2024-12-26,Maison,2280.87,3,6842.61,Virement,Casablanca,M,44
+TXN_0097,CUST_018,2024-09-13,Alimentation,1339.23,1,1339.23,Virement,Fès,F,35
+TXN_0098,CUST_160,2024-05-12,Maison,2345.6,2,4691.2,Carte Bancaire,Tanger,F,39
+TXN_0099,CUST_009,2024-10-02,Électronique,8035.38,2,16070.76,Livraison,Tanger,M,55
+TXN_0100,CUST_167,2024-09-20,Maison,958.91,1,958.91,Carte Bancaire,Fès,M,49
+TXN_0101,CUST_009,2024-06-19,Maison,3007.74,1,3007.74,Carte Bancaire,Tanger,M,55
+TXN_0102,CUST_005,2024-01-01,Maison,247.02,2,494.04,Virement,Agadir,M,45
+TXN_0103,CUST_136,2024-11-08,Maison,1516.1,3,4548.3,Carte Bancaire,Rabat,M,65
+TXN_0104,CUST_200,2024-03-04,Maison,3153.82,2,6307.64,Virement,Rabat,F,67
+TXN_0105,CUST_182,2024-10-10,Mode,2100.01,2,4200.02,Virement,Casablanca,M,52
+TXN_0106,CUST_116,2024-04-30,Électronique,5276.55,2,10553.1,Virement,Casablanca,F,31
+TXN_0107,CUST_184,2024-04-16,Mode,790.53,2,1581.06,Virement,Casablanca,M,40
+TXN_0108,CUST_001,2024-06-23,Alimentation,201.88,1,201.88,Carte Bancaire,Marrakech,F,61
+TXN_0109,CUST_195,2024-07-22,Électronique,5162.49,3,15487.47,Carte Bancaire,Casablanca,F,56
+TXN_0110,CUST_098,2024-06-13,Électronique,4602.45,1,4602.45,Livraison,Marrakech,F,23
+TXN_0111,CUST_141,2024-10-31,Alimentation,804.8,2,1609.6,Carte Bancaire,Rabat,M,40
+TXN_0112,CUST_161,2024-04-29,Mode,1490.86,1,1490.86,Carte Bancaire,Casablanca,F,22
+TXN_0113,CUST_140,2024-02-13,Maison,2320.99,1,2320.99,Carte Bancaire,Rabat,M,63
+TXN_0114,CUST_111,2024-11-07,Mode,1678.83,2,3357.66,Virement,Tanger,F,25
+TXN_0115,CUST_096,2024-06-04,Maison,1155.48,1,1155.48,Livraison,Fès,M,23
+TXN_0116,CUST_167,2024-07-25,Alimentation,1037.74,3,3113.22,Carte Bancaire,Fès,M,49
+TXN_0117,CUST_039,2024-04-17,Électronique,810.67,1,810.67,Livraison,Marrakech,F,36
+TXN_0118,CUST_195,2024-09-07,Alimentation,1339.55,2,2679.1,Carte Bancaire,Casablanca,F,56
+TXN_0119,CUST_139,2024-11-29,Alimentation,1270.87,2,2541.74,Carte Bancaire,Casablanca,F,53
+TXN_0120,CUST_039,2024-05-09,Électronique,990.92,1,990.92,Virement,Marrakech,F,36
+TXN_0121,CUST_143,2024-10-19,Électronique,5488.03,1,5488.03,Livraison,Tanger,F,42
+TXN_0122,CUST_107,2024-01-20,Maison,2825.57,2,5651.14,Virement,Casablanca,F,29
+TXN_0123,CUST_138,2024-10-08,Mode,1805.09,2,3610.18,Carte Bancaire,Rabat,M,30
+TXN_0124,CUST_153,2024-10-11,Beauté,1224.51,2,2449.02,Virement,Agadir,F,54
+TXN_0125,CUST_018,2024-01-01,Beauté,102.98,2,205.96,Livraison,Fès,F,35
+TXN_0126,CUST_102,2024-04-28,Maison,2334.46,2,4668.92,Livraison,Rabat,F,35
+TXN_0127,CUST_186,2024-02-04,Alimentation,501.15,1,501.15,Livraison,Rabat,M,52
+TXN_0128,CUST_063,2024-07-16,Maison,3215.54,2,6431.08,Virement,Rabat,F,56
+TXN_0129,CUST_120,2024-09-01,Mode,2086.07,4,8344.28,Livraison,Casablanca,F,55
+TXN_0130,CUST_074,2024-02-28,Électronique,3200.44,2,6400.88,Livraison,Rabat,F,56
+TXN_0131,CUST_093,2024-11-20,Alimentation,1510.14,2,3020.28,Virement,Agadir,F,23
+TXN_0132,CUST_113,2024-06-09,Mode,757.13,2,1514.26,Virement,Fès,M,42
+TXN_0133,CUST_113,2024-06-27,Alimentation,269.01,3,807.03,Livraison,Fès,M,42
+TXN_0134,CUST_039,2024-07-24,Maison,2979.85,3,8939.55,Livraison,Marrakech,F,36
+TXN_0135,CUST_135,2024-01-12,Maison,2498.92,2,4997.84,Livraison,Fès,F,57
+TXN_0136,CUST_018,2024-10-02,Électronique,8271.96,4,33087.84,Carte Bancaire,Fès,F,35
+TXN_0137,CUST_028,2024-06-29,Alimentation,1410.2,1,1410.2,Livraison,Casablanca,F,64
+TXN_0138,CUST_001,2024-08-29,Alimentation,1555.83,1,1555.83,Virement,Marrakech,F,61
+TXN_0139,CUST_024,2024-08-03,Électronique,3778.0,3,11334.0,Virement,Rabat,F,64
+TXN_0140,CUST_096,2024-09-07,Électronique,1460.88,3,4382.64,Carte Bancaire,Fès,M,23
+TXN_0141,CUST_123,2024-10-25,Mode,1902.86,1,1902.86,Livraison,Tanger,M,50
+TXN_0142,CUST_158,2024-05-05,Électronique,6489.53,1,6489.53,Carte Bancaire,Marrakech,M,22
+TXN_0143,CUST_023,2024-08-04,Maison,2029.48,1,2029.48,Virement,Marrakech,M,44
+TXN_0144,CUST_170,2024-11-01,Alimentation,349.27,1,349.27,Virement,Casablanca,M,44
+TXN_0145,CUST_147,2024-10-11,Beauté,1109.24,3,3327.72,Livraison,Casablanca,M,70
+TXN_0146,CUST_082,2024-07-03,Électronique,2781.51,2,5563.02,Virement,Casablanca,F,69
+TXN_0147,CUST_186,2024-02-08,Alimentation,1177.54,2,2355.08,Livraison,Rabat,M,52
+TXN_0148,CUST_198,2024-08-10,Mode,376.54,2,753.08,Livraison,Marrakech,M,61
+TXN_0149,CUST_039,2024-07-02,Mode,1580.59,1,1580.59,Carte Bancaire,Marrakech,F,36
+TXN_0150,CUST_076,2024-06-26,Électronique,4824.14,1,4824.14,Livraison,Marrakech,M,68
+TXN_0151,CUST_186,2024-10-20,Mode,1658.15,2,3316.3,Livraison,Rabat,M,52
+TXN_0152,CUST_141,2024-12-05,Alimentation,141.23,4,564.92,Livraison,Rabat,M,40
+TXN_0153,CUST_009,2024-05-30,Alimentation,696.24,3,2088.72,Carte Bancaire,Tanger,M,55
+TXN_0154,CUST_156,2024-05-05,Électronique,6340.93,1,6340.93,Virement,Agadir,F,65
+TXN_0155,CUST_163,2024-10-27,Électronique,8122.32,3,24366.96,Carte Bancaire,Casablanca,F,43
+TXN_0156,CUST_148,2024-11-03,Mode,1523.22,3,4569.66,Livraison,Casablanca,M,56
+TXN_0157,CUST_159,2024-12-01,Alimentation,864.75,3,2594.25,Livraison,Tanger,F,29
+TXN_0158,CUST_163,2024-08-21,Alimentation,962.58,2,1925.16,Livraison,Casablanca,F,43
+TXN_0159,CUST_038,2024-01-08,Mode,629.86,2,1259.72,Livraison,Tanger,F,30
+TXN_0160,CUST_046,2024-12-06,Mode,1933.39,2,3866.78,Carte Bancaire,Marrakech,M,26
+TXN_0161,CUST_126,2024-05-08,Électronique,7171.28,1,7171.28,Carte Bancaire,Marrakech,F,63
+TXN_0162,CUST_184,2024-09-20,Maison,662.75,1,662.75,Livraison,Casablanca,M,40
+TXN_0163,CUST_061,2024-06-05,Électronique,6151.98,1,6151.98,Livraison,Casablanca,F,28
+TXN_0164,CUST_119,2024-12-17,Mode,454.6,2,909.2,Carte Bancaire,Agadir,M,39
+TXN_0165,CUST_134,2024-12-23,Maison,1156.13,3,3468.39,Livraison,Rabat,F,44
+TXN_0166,CUST_091,2024-01-05,Beauté,693.56,2,1387.12,Livraison,Agadir,F,54
+TXN_0167,CUST_139,2024-03-26,Électronique,6180.77,1,6180.77,Livraison,Casablanca,F,53
+TXN_0168,CUST_183,2024-06-23,Électronique,8524.14,4,34096.56,Virement,Marrakech,F,35
+TXN_0169,CUST_125,2024-10-16,Alimentation,1502.62,4,6010.48,Carte Bancaire,Tanger,M,34
+TXN_0170,CUST_112,2024-07-11,Électronique,2803.25,3,8409.75,Carte Bancaire,Rabat,M,52
+TXN_0171,CUST_086,2024-11-06,Électronique,209.79,4,839.16,Virement,Marrakech,F,49
+TXN_0172,CUST_117,2024-04-28,Beauté,1385.38,2,2770.76,Livraison,Fès,M,25
+TXN_0173,CUST_073,2024-08-05,Électronique,2593.2,4,10372.8,Livraison,Tanger,F,49
+TXN_0174,CUST_080,2024-04-23,Électronique,2117.44,1,2117.44,Virement,Marrakech,F,45
+TXN_0175,CUST_109,2024-05-24,Mode,212.63,2,425.26,Virement,Casablanca,M,33
+TXN_0176,CUST_012,2024-01-26,Alimentation,1101.82,1,1101.82,Virement,Tanger,M,34
+TXN_0177,CUST_046,2024-05-15,Mode,1606.68,1,1606.68,Livraison,Marrakech,M,26
+TXN_0178,CUST_113,2024-10-29,Électronique,6024.14,1,6024.14,Livraison,Fès,M,42
+TXN_0179,CUST_084,2024-08-19,Alimentation,811.54,2,1623.08,Livraison,Agadir,F,54
+TXN_0180,CUST_067,2024-03-16,Électronique,5776.66,3,17329.98,Carte Bancaire,Rabat,M,44
+TXN_0181,CUST_142,2024-11-23,Électronique,5422.46,2,10844.92,Livraison,Casablanca,M,49
+TXN_0182,CUST_135,2024-12-10,Beauté,723.03,1,723.03,Carte Bancaire,Fès,F,57
+TXN_0183,CUST_034,2024-10-28,Électronique,342.94,3,1028.82,Virement,Marrakech,F,20
+TXN_0184,CUST_177,2024-10-15,Maison,1763.53,2,3527.06,Livraison,Fès,M,46
+TXN_0185,CUST_099,2024-01-01,Alimentation,1310.71,2,2621.42,Livraison,Rabat,M,53
+TXN_0186,CUST_145,2024-05-26,Alimentation,1524.81,2,3049.62,Carte Bancaire,Tanger,F,69
+TXN_0187,CUST_116,2024-10-13,Beauté,1382.83,1,1382.83,Carte Bancaire,Casablanca,F,31
+TXN_0188,CUST_200,2024-05-21,Électronique,6613.25,2,13226.5,Carte Bancaire,Rabat,F,67
+TXN_0189,CUST_149,2024-02-22,Maison,2457.3,3,7371.9,Livraison,Casablanca,F,69
+TXN_0190,CUST_138,2024-10-30,Beauté,1078.49,1,1078.49,Carte Bancaire,Rabat,M,30
+TXN_0191,CUST_156,2024-03-09,Maison,2127.78,2,4255.56,Livraison,Agadir,F,65
+TXN_0192,CUST_029,2024-12-26,Beauté,415.67,3,1247.01,Virement,Casablanca,M,20
+TXN_0193,CUST_039,2024-03-30,Électronique,3047.07,2,6094.14,Virement,Marrakech,F,36
+TXN_0194,CUST_139,2024-08-07,Alimentation,113.54,1,113.54,Livraison,Casablanca,F,53
+TXN_0195,CUST_099,2024-07-10,Électronique,6052.49,1,6052.49,Carte Bancaire,Rabat,M,53
+TXN_0196,CUST_150,2024-03-03,Mode,1098.5,1,1098.5,Virement,Fès,M,57
+TXN_0197,CUST_022,2024-03-13,Beauté,795.3,2,1590.6,Virement,Casablanca,F,45
+TXN_0198,CUST_111,2024-06-09,Électronique,5097.89,2,10195.78,Carte Bancaire,Tanger,F,25
+TXN_0199,CUST_076,2024-06-17,Maison,1259.51,1,1259.51,Virement,Marrakech,M,68
+TXN_0200,CUST_093,2024-03-29,Électronique,3216.03,4,12864.12,Carte Bancaire,Agadir,F,23
+TXN_0201,CUST_122,2024-06-24,Maison,174.89,2,349.78,Virement,Tanger,M,47
+TXN_0202,CUST_100,2024-09-25,Alimentation,1573.43,1,1573.43,Virement,Casablanca,M,36
+TXN_0203,CUST_112,2024-03-13,Beauté,1389.7,2,2779.4,Carte Bancaire,Rabat,M,52
+TXN_0204,CUST_097,2024-09-01,Maison,2060.52,2,4121.04,Virement,Fès,M,33
+TXN_0205,CUST_082,2024-03-17,Alimentation,210.92,1,210.92,Livraison,Casablanca,F,69
+TXN_0206,CUST_154,2024-06-07,Électronique,1384.27,1,1384.27,Virement,Casablanca,F,26
+TXN_0207,CUST_003,2024-11-19,Électronique,1030.89,3,3092.67,Livraison,Tanger,M,48
+TXN_0208,CUST_122,2024-04-07,Électronique,7517.36,2,15034.72,Virement,Tanger,M,47
+TXN_0209,CUST_116,2024-04-11,Électronique,8281.9,2,16563.8,Carte Bancaire,Casablanca,F,31
+TXN_0210,CUST_140,2024-05-11,Mode,1883.11,2,3766.22,Carte Bancaire,Rabat,M,63
+TXN_0211,CUST_122,2024-04-11,Maison,1249.66,1,1249.66,Carte Bancaire,Tanger,M,47
+TXN_0212,CUST_163,2024-01-19,Maison,2978.24,1,2978.24,Virement,Casablanca,F,43
+TXN_0213,CUST_192,2024-03-22,Électronique,5918.13,2,11836.26,Virement,Agadir,F,22
+TXN_0214,CUST_071,2024-10-05,Mode,905.13,1,905.13,Virement,Agadir,F,59
+TXN_0215,CUST_046,2024-12-04,Mode,453.39,1,453.39,Virement,Marrakech,M,26
+TXN_0216,CUST_083,2024-12-30,Électronique,1110.22,3,3330.66,Carte Bancaire,Fès,F,23
+TXN_0217,CUST_051,2024-11-26,Maison,242.19,4,968.76,Livraison,Marrakech,F,57
+TXN_0218,CUST_124,2024-05-08,Maison,2401.59,3,7204.77,Carte Bancaire,Casablanca,M,36
+TXN_0219,CUST_184,2024-12-09,Électronique,3737.84,3,11213.52,Carte Bancaire,Casablanca,M,40
+TXN_0220,CUST_028,2024-11-05,Alimentation,1317.87,1,1317.87,Carte Bancaire,Casablanca,F,64
+TXN_0221,CUST_022,2024-03-29,Alimentation,506.11,4,2024.44,Livraison,Casablanca,F,45
+TXN_0222,CUST_047,2024-07-31,Électronique,6614.66,1,6614.66,Carte Bancaire,Casablanca,M,31
+TXN_0223,CUST_141,2024-05-22,Beauté,1213.37,4,4853.48,Carte Bancaire,Rabat,M,40
+TXN_0224,CUST_120,2024-03-05,Mode,1856.53,4,7426.12,Carte Bancaire,Casablanca,F,55
+TXN_0225,CUST_022,2024-03-16,Maison,3774.68,2,7549.36,Carte Bancaire,Casablanca,F,45
+TXN_0226,CUST_184,2024-07-17,Alimentation,280.91,4,1123.64,Virement,Casablanca,M,40
+TXN_0227,CUST_158,2024-05-22,Alimentation,748.58,2,1497.16,Virement,Marrakech,M,22
+TXN_0228,CUST_006,2024-11-11,Maison,821.48,1,821.48,Virement,Rabat,M,63
+TXN_0229,CUST_127,2024-04-02,Maison,1965.85,2,3931.7,Livraison,Marrakech,F,58
+TXN_0230,CUST_154,2024-10-31,Électronique,7062.42,2,14124.84,Carte Bancaire,Casablanca,F,26
+TXN_0231,CUST_076,2024-08-11,Maison,501.97,1,501.97,Virement,Marrakech,M,68
+TXN_0232,CUST_012,2024-10-17,Mode,1252.71,2,2505.42,Carte Bancaire,Tanger,M,34
+TXN_0233,CUST_015,2024-04-11,Alimentation,1058.81,4,4235.24,Carte Bancaire,Marrakech,F,55
+TXN_0234,CUST_022,2024-09-23,Électronique,1240.32,1,1240.32,Carte Bancaire,Casablanca,F,45
+TXN_0235,CUST_167,2024-12-20,Mode,497.31,3,1491.93,Carte Bancaire,Fès,M,49
+TXN_0236,CUST_184,2024-04-19,Électronique,200.27,3,600.81,Carte Bancaire,Casablanca,M,40
+TXN_0237,CUST_025,2024-11-25,Électronique,6466.81,4,25867.24,Carte Bancaire,Fès,M,60
+TXN_0238,CUST_046,2024-09-21,Électronique,3338.05,4,13352.2,Livraison,Marrakech,M,26
+TXN_0239,CUST_034,2024-01-03,Alimentation,659.05,2,1318.1,Carte Bancaire,Marrakech,F,20
+TXN_0240,CUST_038,2024-03-25,Mode,1612.81,4,6451.24,Carte Bancaire,Tanger,F,30
+TXN_0241,CUST_166,2024-10-08,Maison,2558.88,3,7676.64,Virement,Marrakech,M,69
+TXN_0242,CUST_067,2024-11-23,Électronique,2439.44,1,2439.44,Carte Bancaire,Rabat,M,44
+TXN_0243,CUST_059,2024-10-30,Beauté,217.55,2,435.1,Carte Bancaire,Casablanca,M,18
+TXN_0244,CUST_046,2024-04-26,Beauté,1015.35,2,2030.7,Virement,Marrakech,M,26
+TXN_0245,CUST_123,2024-08-08,Mode,1173.34,1,1173.34,Carte Bancaire,Tanger,M,50
+TXN_0246,CUST_076,2024-06-02,Électronique,313.5,2,627.0,Carte Bancaire,Marrakech,M,68
+TXN_0247,CUST_146,2024-06-01,Alimentation,162.94,2,325.88,Livraison,Casablanca,F,60
+TXN_0248,CUST_039,2024-01-12,Beauté,542.71,1,542.71,Carte Bancaire,Marrakech,F,36
+TXN_0249,CUST_158,2024-05-12,Mode,1369.06,2,2738.12,Livraison,Marrakech,M,22
+TXN_0250,CUST_122,2024-10-30,Électronique,4954.63,3,14863.89,Virement,Tanger,M,47
+TXN_0251,CUST_024,2024-10-19,Électronique,7690.13,2,15380.26,Carte Bancaire,Rabat,F,64
+TXN_0252,CUST_082,2024-10-26,Alimentation,991.18,1,991.18,Livraison,Casablanca,F,69
+TXN_0253,CUST_172,2024-08-15,Beauté,99.15,1,99.15,Livraison,Tanger,F,68
+TXN_0254,CUST_185,2024-09-27,Maison,2269.55,2,4539.1,Carte Bancaire,Marrakech,M,66
+TXN_0255,CUST_095,2024-02-12,Alimentation,1451.65,4,5806.6,Livraison,Fès,F,55
+TXN_0256,CUST_096,2024-12-08,Électronique,8627.16,1,8627.16,Carte Bancaire,Fès,M,23
+TXN_0257,CUST_184,2024-11-21,Maison,1718.36,2,3436.72,Livraison,Casablanca,M,40
+TXN_0258,CUST_119,2024-10-28,Mode,1067.89,1,1067.89,Carte Bancaire,Agadir,M,39
+TXN_0259,CUST_007,2024-12-29,Alimentation,662.49,2,1324.98,Livraison,Tanger,M,53
+TXN_0260,CUST_184,2024-01-21,Mode,1840.29,3,5520.87,Carte Bancaire,Casablanca,M,40
+TXN_0261,CUST_046,2024-04-16,Beauté,618.56,3,1855.68,Virement,Marrakech,M,26
+TXN_0262,CUST_117,2024-12-01,Électronique,5178.56,1,5178.56,Carte Bancaire,Fès,M,25
+TXN_0263,CUST_034,2024-10-29,Maison,2157.3,2,4314.6,Livraison,Marrakech,F,20
+TXN_0264,CUST_007,2024-04-26,Alimentation,408.83,1,408.83,Livraison,Tanger,M,53
+TXN_0265,CUST_059,2024-05-03,Mode,1842.08,2,3684.16,Virement,Casablanca,M,18
+TXN_0266,CUST_156,2024-10-07,Maison,3601.81,2,7203.62,Livraison,Agadir,F,65
+TXN_0267,CUST_050,2024-10-18,Maison,905.73,1,905.73,Livraison,Tanger,M,52
+TXN_0268,CUST_043,2024-07-21,Mode,1589.72,1,1589.72,Virement,Casablanca,M,32
+TXN_0269,CUST_041,2024-02-20,Alimentation,752.72,2,1505.44,Virement,Tanger,F,42
+TXN_0270,CUST_106,2024-09-27,Beauté,397.53,3,1192.59,Carte Bancaire,Marrakech,M,66
+TXN_0271,CUST_195,2024-11-19,Maison,236.87,4,947.48,Livraison,Casablanca,F,56
+TXN_0272,CUST_093,2024-10-03,Électronique,4727.26,1,4727.26,Virement,Agadir,F,23
+TXN_0273,CUST_115,2024-05-20,Maison,3467.41,3,10402.23,Virement,Agadir,F,58
+TXN_0274,CUST_171,2024-10-01,Mode,321.34,2,642.68,Virement,Rabat,M,52
+TXN_0275,CUST_111,2024-10-16,Alimentation,153.51,2,307.02,Carte Bancaire,Tanger,F,25
+TXN_0276,CUST_036,2024-11-29,Mode,1861.59,3,5584.77,Carte Bancaire,Marrakech,F,31
+TXN_0277,CUST_055,2024-02-21,Beauté,1162.72,3,3488.16,Livraison,Tanger,M,25
+TXN_0278,CUST_058,2024-01-27,Électronique,948.5,4,3794.0,Virement,Marrakech,F,62
+TXN_0279,CUST_080,2024-06-05,Beauté,531.9,2,1063.8,Livraison,Marrakech,F,45
+TXN_0280,CUST_084,2024-08-26,Électronique,5030.08,2,10060.16,Livraison,Agadir,F,54
+TXN_0281,CUST_159,2024-06-04,Électronique,3543.82,3,10631.46,Virement,Tanger,F,29
+TXN_0282,CUST_071,2024-10-17,Électronique,5542.79,1,5542.79,Carte Bancaire,Agadir,F,59
+TXN_0283,CUST_095,2024-05-15,Beauté,1174.06,2,2348.12,Virement,Fès,F,55
+TXN_0284,CUST_125,2024-05-23,Maison,2371.9,2,4743.8,Livraison,Tanger,M,34
+TXN_0285,CUST_076,2024-04-15,Électronique,3620.79,2,7241.58,Carte Bancaire,Marrakech,M,68
+TXN_0286,CUST_165,2024-06-06,Alimentation,1327.14,1,1327.14,Livraison,Agadir,M,27
+TXN_0287,CUST_119,2024-05-25,Maison,3579.04,1,3579.04,Virement,Agadir,M,39
+TXN_0288,CUST_052,2024-01-02,Électronique,2314.63,3,6943.89,Carte Bancaire,Rabat,F,59
+TXN_0289,CUST_139,2024-03-17,Beauté,90.78,1,90.78,Carte Bancaire,Casablanca,F,53
+TXN_0290,CUST_107,2024-05-11,Mode,1509.13,2,3018.26,Virement,Casablanca,F,29
+TXN_0291,CUST_111,2024-03-30,Alimentation,1336.04,1,1336.04,Carte Bancaire,Tanger,F,25
+TXN_0292,CUST_096,2024-12-10,Beauté,493.24,1,493.24,Livraison,Fès,M,23
+TXN_0293,CUST_099,2024-12-15,Alimentation,973.76,1,973.76,Livraison,Rabat,M,53
+TXN_0294,CUST_152,2024-09-19,Beauté,405.93,1,405.93,Livraison,Fès,M,36
+TXN_0295,CUST_022,2024-12-16,Maison,2448.24,3,7344.72,Livraison,Casablanca,F,45
+TXN_0296,CUST_068,2024-04-17,Maison,3269.12,1,3269.12,Carte Bancaire,Tanger,F,64
+TXN_0297,CUST_014,2024-03-14,Électronique,1035.69,4,4142.76,Livraison,Tanger,M,38
+TXN_0298,CUST_149,2024-02-08,Beauté,395.97,2,791.94,Carte Bancaire,Casablanca,F,69
+TXN_0299,CUST_050,2024-06-07,Alimentation,616.72,2,1233.44,Livraison,Tanger,M,52
+TXN_0300,CUST_183,2024-03-11,Électronique,2971.28,2,5942.56,Carte Bancaire,Marrakech,F,35
+TXN_0301,CUST_107,2024-11-07,Électronique,1050.47,2,2100.94,Livraison,Casablanca,F,29
+TXN_0302,CUST_160,2024-08-28,Maison,1804.24,3,5412.72,Carte Bancaire,Tanger,F,39
+TXN_0303,CUST_196,2024-10-24,Maison,3036.96,1,3036.96,Carte Bancaire,Marrakech,F,52
+TXN_0304,CUST_167,2024-02-05,Mode,1563.75,2,3127.5,Carte Bancaire,Fès,M,49
+TXN_0305,CUST_174,2024-03-24,Beauté,179.32,3,537.96,Carte Bancaire,Marrakech,M,61
+TXN_0306,CUST_082,2024-09-19,Électronique,1756.69,4,7026.76,Virement,Casablanca,F,69
+TXN_0307,CUST_114,2024-11-05,Mode,862.26,3,2586.78,Carte Bancaire,Casablanca,F,35
+TXN_0308,CUST_047,2024-06-20,Électronique,8888.56,2,17777.12,Virement,Casablanca,M,31
+TXN_0309,CUST_038,2024-06-21,Mode,1946.49,3,5839.47,Virement,Tanger,F,30
+TXN_0310,CUST_102,2024-12-27,Mode,1623.28,2,3246.56,Livraison,Rabat,F,35
+TXN_0311,CUST_121,2024-02-16,Maison,3665.21,2,7330.42,Carte Bancaire,Marrakech,F,25
+TXN_0312,CUST_071,2024-05-20,Mode,336.44,1,336.44,Carte Bancaire,Agadir,F,59
+TXN_0313,CUST_116,2024-04-27,Alimentation,1295.67,2,2591.34,Virement,Casablanca,F,31
+TXN_0314,CUST_181,2024-10-03,Alimentation,923.12,1,923.12,Carte Bancaire,Fès,M,53
+TXN_0315,CUST_115,2024-08-01,Mode,956.33,2,1912.66,Carte Bancaire,Agadir,F,58
+TXN_0316,CUST_141,2024-08-07,Alimentation,1335.42,3,4006.26,Livraison,Rabat,M,40
+TXN_0317,CUST_160,2024-01-26,Alimentation,1039.82,1,1039.82,Virement,Tanger,F,39
+TXN_0318,CUST_198,2024-01-09,Alimentation,1272.3,1,1272.3,Virement,Marrakech,M,61
+TXN_0319,CUST_122,2024-09-27,Mode,1961.4,1,1961.4,Carte Bancaire,Tanger,M,47
+TXN_0320,CUST_160,2024-01-10,Alimentation,989.82,4,3959.28,Livraison,Tanger,F,39
+TXN_0321,CUST_194,2024-04-30,Électronique,4108.11,2,8216.22,Carte Bancaire,Rabat,M,56
+TXN_0322,CUST_188,2024-05-04,Mode,199.11,2,398.22,Carte Bancaire,Marrakech,F,36
+TXN_0323,CUST_029,2024-06-18,Mode,2118.97,3,6356.91,Virement,Casablanca,M,20
+TXN_0324,CUST_082,2024-03-12,Électronique,4880.47,3,14641.41,Carte Bancaire,Casablanca,F,69
+TXN_0325,CUST_065,2024-05-31,Électronique,7887.84,2,15775.68,Carte Bancaire,Tanger,F,65
+TXN_0326,CUST_018,2024-07-26,Électronique,8961.01,2,17922.02,Carte Bancaire,Fès,F,35
+TXN_0327,CUST_126,2024-02-18,Alimentation,709.49,3,2128.47,Virement,Marrakech,F,63
+TXN_0328,CUST_143,2024-06-02,Alimentation,1536.08,2,3072.16,Virement,Tanger,F,42
+TXN_0329,CUST_169,2024-12-12,Mode,1526.24,1,1526.24,Livraison,Tanger,M,19
+TXN_0330,CUST_025,2024-10-19,Maison,2352.67,3,7058.01,Virement,Fès,M,60
+TXN_0331,CUST_176,2024-03-08,Maison,846.02,2,1692.04,Carte Bancaire,Casablanca,F,52
+TXN_0332,CUST_127,2024-02-19,Alimentation,902.49,1,902.49,Livraison,Marrakech,F,58
+TXN_0333,CUST_138,2024-05-31,Mode,1425.89,2,2851.78,Carte Bancaire,Rabat,M,30
+TXN_0334,CUST_184,2024-01-19,Alimentation,999.74,1,999.74,Carte Bancaire,Casablanca,M,40
+TXN_0335,CUST_125,2024-04-09,Beauté,335.13,1,335.13,Livraison,Tanger,M,34
+TXN_0336,CUST_069,2024-02-29,Maison,1184.87,3,3554.61,Virement,Rabat,M,43
+TXN_0337,CUST_163,2024-06-15,Électronique,5327.89,1,5327.89,Carte Bancaire,Casablanca,F,43
+TXN_0338,CUST_074,2024-07-20,Maison,914.78,2,1829.56,Carte Bancaire,Rabat,F,56
+TXN_0339,CUST_007,2024-12-10,Alimentation,415.14,2,830.28,Carte Bancaire,Tanger,M,53
+TXN_0340,CUST_163,2024-05-25,Maison,1100.4,1,1100.4,Carte Bancaire,Casablanca,F,43
+TXN_0341,CUST_071,2024-06-12,Électronique,7349.77,4,29399.08,Virement,Agadir,F,59
+TXN_0342,CUST_154,2024-08-29,Électronique,3077.08,1,3077.08,Livraison,Casablanca,F,26
+TXN_0343,CUST_074,2024-03-09,Mode,668.17,2,1336.34,Livraison,Rabat,F,56
+TXN_0344,CUST_171,2024-06-23,Électronique,2890.55,2,5781.1,Virement,Rabat,M,52
+TXN_0345,CUST_043,2024-02-18,Mode,622.46,1,622.46,Carte Bancaire,Casablanca,M,32
+TXN_0346,CUST_195,2024-04-17,Alimentation,1030.99,1,1030.99,Livraison,Casablanca,F,56
+TXN_0347,CUST_156,2024-08-13,Maison,1329.7,3,3989.1,Livraison,Agadir,F,65
+TXN_0348,CUST_024,2024-06-09,Maison,2287.27,4,9149.08,Livraison,Rabat,F,64
+TXN_0349,CUST_116,2024-04-28,Maison,2413.77,1,2413.77,Virement,Casablanca,F,31
+TXN_0350,CUST_198,2024-05-28,Alimentation,948.84,2,1897.68,Virement,Marrakech,M,61
+TXN_0351,CUST_096,2024-05-29,Électronique,3743.79,3,11231.37,Livraison,Fès,M,23
+TXN_0352,CUST_035,2024-10-19,Électronique,6118.06,3,18354.18,Virement,Fès,F,63
+TXN_0353,CUST_097,2024-05-22,Alimentation,360.95,2,721.9,Carte Bancaire,Fès,M,33
+TXN_0354,CUST_105,2024-06-08,Maison,1792.02,2,3584.04,Carte Bancaire,Casablanca,M,43
+TXN_0355,CUST_145,2024-01-11,Beauté,817.77,2,1635.54,Carte Bancaire,Tanger,F,69
+TXN_0356,CUST_137,2024-05-17,Mode,2078.32,2,4156.64,Carte Bancaire,Tanger,F,43
+TXN_0357,CUST_081,2024-03-18,Mode,726.37,3,2179.11,Livraison,Fès,M,18
+TXN_0358,CUST_041,2024-03-17,Mode,1728.56,1,1728.56,Livraison,Tanger,F,42
+TXN_0359,CUST_127,2024-09-10,Maison,2519.37,2,5038.74,Virement,Marrakech,F,58
+TXN_0360,CUST_082,2024-09-14,Électronique,6203.29,3,18609.87,Livraison,Casablanca,F,69
+TXN_0361,CUST_026,2024-11-15,Beauté,471.68,3,1415.04,Livraison,Agadir,F,48
+TXN_0362,CUST_183,2024-10-17,Maison,464.06,4,1856.24,Carte Bancaire,Marrakech,F,35
+TXN_0363,CUST_135,2024-09-19,Maison,487.98,3,1463.94,Carte Bancaire,Fès,F,57
+TXN_0364,CUST_134,2024-03-25,Électronique,2974.11,2,5948.22,Livraison,Rabat,F,44
+TXN_0365,CUST_162,2024-05-25,Alimentation,170.57,2,341.14,Livraison,Casablanca,F,69
+TXN_0366,CUST_107,2024-11-18,Alimentation,998.63,2,1997.26,Virement,Casablanca,F,29
+TXN_0367,CUST_160,2024-02-11,Mode,925.56,1,925.56,Carte Bancaire,Tanger,F,39
+TXN_0368,CUST_099,2024-05-04,Maison,811.54,2,1623.08,Carte Bancaire,Rabat,M,53
+TXN_0369,CUST_012,2024-06-15,Alimentation,1240.81,2,2481.62,Livraison,Tanger,M,34
+TXN_0370,CUST_082,2024-08-28,Beauté,636.79,1,636.79,Carte Bancaire,Casablanca,F,69
+TXN_0371,CUST_099,2024-10-06,Électronique,1372.25,3,4116.75,Carte Bancaire,Rabat,M,53
+TXN_0372,CUST_141,2024-07-06,Alimentation,875.57,2,1751.14,Virement,Rabat,M,40
+TXN_0373,CUST_023,2024-10-28,Électronique,5765.09,4,23060.36,Carte Bancaire,Marrakech,M,44
+TXN_0374,CUST_029,2024-01-19,Mode,392.43,1,392.43,Livraison,Casablanca,M,20
+TXN_0375,CUST_049,2024-03-08,Beauté,583.7,1,583.7,Carte Bancaire,Casablanca,F,24
+TXN_0376,CUST_050,2024-08-05,Alimentation,424.69,2,849.38,Carte Bancaire,Tanger,M,52
+TXN_0377,CUST_142,2024-04-11,Mode,122.5,1,122.5,Carte Bancaire,Casablanca,M,49
+TXN_0378,CUST_047,2024-02-11,Alimentation,1093.11,2,2186.22,Virement,Casablanca,M,31
+TXN_0379,CUST_126,2024-10-14,Beauté,1237.44,3,3712.32,Livraison,Marrakech,F,63
+TXN_0380,CUST_099,2024-06-15,Mode,1242.94,1,1242.94,Virement,Rabat,M,53
+TXN_0381,CUST_116,2024-04-18,Mode,2149.14,2,4298.28,Carte Bancaire,Casablanca,F,31
+TXN_0382,CUST_166,2024-02-05,Électronique,1329.27,2,2658.54,Virement,Marrakech,M,69
+TXN_0383,CUST_082,2024-08-19,Beauté,1275.94,2,2551.88,Carte Bancaire,Casablanca,F,69
+TXN_0384,CUST_154,2024-08-16,Mode,875.19,4,3500.76,Livraison,Casablanca,F,26
+TXN_0385,CUST_082,2024-12-18,Alimentation,201.76,3,605.28,Livraison,Casablanca,F,69
+TXN_0386,CUST_072,2024-06-12,Mode,850.1,2,1700.2,Virement,Agadir,F,49
+TXN_0387,CUST_191,2024-03-13,Alimentation,751.59,2,1503.18,Livraison,Marrakech,M,36
+TXN_0388,CUST_036,2024-05-15,Mode,822.59,2,1645.18,Carte Bancaire,Marrakech,F,31
+TXN_0389,CUST_019,2024-12-18,Électronique,5290.73,4,21162.92,Carte Bancaire,Rabat,M,64
+TXN_0390,CUST_154,2024-03-10,Maison,2144.6,2,4289.2,Virement,Casablanca,F,26
+TXN_0391,CUST_012,2024-07-14,Maison,973.88,3,2921.64,Livraison,Tanger,M,34
+TXN_0392,CUST_165,2024-09-25,Électronique,6302.11,3,18906.33,Virement,Agadir,M,27
+TXN_0393,CUST_086,2024-02-18,Électronique,6365.38,1,6365.38,Carte Bancaire,Marrakech,F,49
+TXN_0394,CUST_184,2024-11-11,Électronique,6830.55,3,20491.65,Carte Bancaire,Casablanca,M,40
+TXN_0395,CUST_141,2024-05-09,Alimentation,328.32,1,328.32,Carte Bancaire,Rabat,M,40
+TXN_0396,CUST_123,2024-01-05,Alimentation,360.38,2,720.76,Virement,Tanger,M,50
+TXN_0397,CUST_189,2024-01-27,Maison,1240.64,2,2481.28,Livraison,Fès,F,58
+TXN_0398,CUST_080,2024-06-08,Alimentation,387.49,4,1549.96,Virement,Marrakech,F,45
+TXN_0399,CUST_190,2024-05-28,Alimentation,667.79,3,2003.37,Carte Bancaire,Marrakech,F,45
+TXN_0400,CUST_026,2024-09-20,Mode,1193.14,2,2386.28,Livraison,Agadir,F,48
+TXN_0401,CUST_097,2024-08-17,Électronique,7881.16,3,23643.48,Livraison,Fès,M,33
+TXN_0402,CUST_050,2024-07-18,Beauté,735.77,2,1471.54,Carte Bancaire,Tanger,M,52
+TXN_0403,CUST_112,2024-02-19,Mode,1025.4,4,4101.6,Virement,Rabat,M,52
+TXN_0404,CUST_034,2024-03-07,Maison,1691.2,2,3382.4,Virement,Marrakech,F,20
+TXN_0405,CUST_167,2024-10-26,Maison,3275.68,2,6551.36,Virement,Fès,M,49
+TXN_0406,CUST_168,2024-02-27,Beauté,522.5,1,522.5,Virement,Marrakech,M,21
+TXN_0407,CUST_190,2024-09-15,Électronique,4599.64,3,13798.92,Carte Bancaire,Marrakech,F,45
+TXN_0408,CUST_033,2024-12-07,Électronique,6626.19,3,19878.57,Carte Bancaire,Marrakech,F,43
+TXN_0409,CUST_125,2024-11-21,Électronique,5648.72,2,11297.44,Virement,Tanger,M,34
+TXN_0410,CUST_096,2024-05-09,Mode,1947.82,1,1947.82,Carte Bancaire,Fès,M,23
+TXN_0411,CUST_071,2024-08-02,Électronique,1842.43,3,5527.29,Livraison,Agadir,F,59
+TXN_0412,CUST_072,2024-06-20,Maison,203.37,1,203.37,Livraison,Agadir,F,49
+TXN_0413,CUST_082,2024-09-14,Beauté,229.91,2,459.82,Livraison,Casablanca,F,69
+TXN_0414,CUST_138,2024-04-11,Mode,1161.59,4,4646.36,Virement,Rabat,M,30
+TXN_0415,CUST_122,2024-07-27,Maison,2650.11,2,5300.22,Carte Bancaire,Tanger,M,47
+TXN_0416,CUST_094,2024-10-17,Électronique,426.07,1,426.07,Carte Bancaire,Casablanca,M,28
+TXN_0417,CUST_014,2024-12-19,Mode,1166.29,2,2332.58,Carte Bancaire,Tanger,M,38
+TXN_0418,CUST_015,2024-10-12,Maison,2725.17,3,8175.51,Livraison,Marrakech,F,55
+TXN_0419,CUST_001,2024-04-25,Électronique,2703.96,2,5407.92,Carte Bancaire,Marrakech,F,61
+TXN_0420,CUST_195,2024-09-20,Électronique,4098.7,4,16394.8,Carte Bancaire,Casablanca,F,56
+TXN_0421,CUST_001,2024-05-29,Beauté,1338.96,1,1338.96,Virement,Marrakech,F,61
+TXN_0422,CUST_022,2024-10-26,Maison,3224.82,2,6449.64,Virement,Casablanca,F,45
+TXN_0423,CUST_060,2024-02-05,Mode,390.58,2,781.16,Carte Bancaire,Casablanca,F,18
+TXN_0424,CUST_160,2024-11-28,Beauté,168.9,3,506.7,Carte Bancaire,Tanger,F,39
+TXN_0425,CUST_194,2024-10-13,Maison,3741.1,1,3741.1,Virement,Rabat,M,56
+TXN_0426,CUST_158,2024-10-29,Maison,227.53,3,682.59,Carte Bancaire,Marrakech,M,22
+TXN_0427,CUST_135,2024-11-06,Alimentation,157.75,2,315.5,Carte Bancaire,Fès,F,57
+TXN_0428,CUST_106,2024-07-26,Alimentation,684.65,2,1369.3,Carte Bancaire,Marrakech,M,66
+TXN_0429,CUST_017,2024-04-15,Alimentation,857.8,1,857.8,Livraison,Fès,M,40
+TXN_0430,CUST_191,2024-06-06,Mode,2163.75,3,6491.25,Carte Bancaire,Marrakech,M,36
+TXN_0431,CUST_151,2024-04-30,Maison,742.07,1,742.07,Virement,Rabat,M,59
+TXN_0432,CUST_127,2024-02-24,Beauté,479.92,2,959.84,Livraison,Marrakech,F,58
+TXN_0433,CUST_151,2024-01-12,Alimentation,814.61,1,814.61,Livraison,Rabat,M,59
+TXN_0434,CUST_141,2024-05-24,Maison,3561.76,3,10685.28,Carte Bancaire,Rabat,M,40
+TXN_0435,CUST_127,2024-05-15,Maison,1915.3,2,3830.6,Livraison,Marrakech,F,58
+TXN_0436,CUST_196,2024-01-03,Maison,2323.67,3,6971.01,Livraison,Marrakech,F,52
+TXN_0437,CUST_184,2024-05-23,Maison,2702.65,1,2702.65,Virement,Casablanca,M,40
+TXN_0438,CUST_127,2024-01-30,Électronique,5630.53,2,11261.06,Virement,Marrakech,F,58
+TXN_0439,CUST_135,2024-08-24,Maison,2764.41,2,5528.82,Livraison,Fès,F,57
+TXN_0440,CUST_009,2024-10-05,Électronique,7679.64,3,23038.92,Virement,Tanger,M,55
+TXN_0441,CUST_132,2024-12-13,Alimentation,661.83,3,1985.49,Virement,Tanger,M,20
+TXN_0442,CUST_008,2024-04-24,Alimentation,1355.5,1,1355.5,Virement,Fès,M,62
+TXN_0443,CUST_119,2024-04-13,Maison,3737.2,2,7474.4,Carte Bancaire,Agadir,M,39
+TXN_0444,CUST_200,2024-04-27,Beauté,480.47,1,480.47,Carte Bancaire,Rabat,F,67
+TXN_0445,CUST_115,2024-01-05,Maison,3988.26,2,7976.52,Carte Bancaire,Agadir,F,58
+TXN_0446,CUST_096,2024-12-25,Mode,624.94,1,624.94,Livraison,Fès,M,23
+TXN_0447,CUST_060,2024-09-04,Alimentation,300.9,2,601.8,Livraison,Casablanca,F,18
+TXN_0448,CUST_024,2024-12-29,Maison,2922.61,2,5845.22,Livraison,Rabat,F,64
+TXN_0449,CUST_142,2024-11-16,Électronique,1926.96,2,3853.92,Virement,Casablanca,M,49
+TXN_0450,CUST_038,2024-04-30,Électronique,1304.84,2,2609.68,Virement,Tanger,F,30
+TXN_0451,CUST_024,2024-10-12,Alimentation,848.66,3,2545.98,Virement,Rabat,F,64
+TXN_0452,CUST_082,2024-05-28,Alimentation,174.3,2,348.6,Carte Bancaire,Casablanca,F,69
+TXN_0453,CUST_158,2024-03-24,Électronique,8678.62,1,8678.62,Livraison,Marrakech,M,22
+TXN_0454,CUST_147,2024-08-18,Électronique,1150.79,3,3452.37,Carte Bancaire,Casablanca,M,70
+TXN_0455,CUST_009,2024-10-14,Électronique,4410.72,1,4410.72,Carte Bancaire,Tanger,M,55
+TXN_0456,CUST_093,2024-06-09,Beauté,509.73,2,1019.46,Carte Bancaire,Agadir,F,23
+TXN_0457,CUST_106,2024-09-28,Alimentation,188.16,2,376.32,Carte Bancaire,Marrakech,M,66
+TXN_0458,CUST_127,2024-02-07,Alimentation,952.28,2,1904.56,Livraison,Marrakech,F,58
+TXN_0459,CUST_127,2024-08-13,Électronique,5352.96,1,5352.96,Virement,Marrakech,F,58
+TXN_0460,CUST_074,2024-05-21,Maison,1255.8,2,2511.6,Carte Bancaire,Rabat,F,56
+TXN_0461,CUST_116,2024-10-18,Alimentation,940.35,4,3761.4,Virement,Casablanca,F,31
+TXN_0462,CUST_096,2024-05-30,Électronique,4964.09,2,9928.18,Livraison,Fès,M,23
+TXN_0463,CUST_179,2024-04-23,Maison,3537.05,2,7074.1,Carte Bancaire,Casablanca,F,70
+TXN_0464,CUST_108,2024-08-24,Électronique,957.08,2,1914.16,Livraison,Tanger,M,26
+TXN_0465,CUST_086,2024-03-06,Électronique,701.84,1,701.84,Carte Bancaire,Marrakech,F,49
+TXN_0466,CUST_082,2024-12-26,Électronique,1128.25,2,2256.5,Livraison,Casablanca,F,69
+TXN_0467,CUST_116,2024-12-06,Électronique,5353.17,3,16059.51,Livraison,Casablanca,F,31
+TXN_0468,CUST_160,2024-09-14,Électronique,4990.24,1,4990.24,Carte Bancaire,Tanger,F,39
+TXN_0469,CUST_112,2024-09-05,Alimentation,1414.61,1,1414.61,Carte Bancaire,Rabat,M,52
+TXN_0470,CUST_129,2024-11-26,Mode,254.06,1,254.06,Livraison,Marrakech,M,50
+TXN_0471,CUST_145,2024-11-18,Maison,339.5,2,679.0,Virement,Tanger,F,69
+TXN_0472,CUST_106,2024-06-28,Maison,1039.66,4,4158.64,Carte Bancaire,Marrakech,M,66
+TXN_0473,CUST_084,2024-07-08,Alimentation,927.97,1,927.97,Virement,Agadir,F,54
+TXN_0474,CUST_176,2024-06-02,Beauté,305.22,2,610.44,Livraison,Casablanca,F,52
+TXN_0475,CUST_082,2024-07-14,Alimentation,1538.88,1,1538.88,Virement,Casablanca,F,69
+TXN_0476,CUST_094,2024-11-06,Électronique,2256.92,4,9027.68,Virement,Casablanca,M,28
+TXN_0477,CUST_198,2024-09-18,Maison,3604.94,1,3604.94,Livraison,Marrakech,M,61
+TXN_0478,CUST_001,2024-05-22,Électronique,5812.41,2,11624.82,Livraison,Marrakech,F,61
+TXN_0479,CUST_037,2024-12-07,Alimentation,154.02,3,462.06,Virement,Fès,F,43
+TXN_0480,CUST_077,2024-11-11,Alimentation,228.97,2,457.94,Livraison,Casablanca,M,62
+TXN_0481,CUST_186,2024-04-10,Mode,1492.61,2,2985.22,Carte Bancaire,Rabat,M,52
+TXN_0482,CUST_013,2024-08-31,Alimentation,146.98,2,293.96,Carte Bancaire,Fès,F,27
+TXN_0483,CUST_001,2024-01-12,Maison,1136.34,2,2272.68,Virement,Marrakech,F,61
+TXN_0484,CUST_009,2024-08-26,Beauté,1115.94,1,1115.94,Virement,Tanger,M,55
+TXN_0485,CUST_018,2024-02-18,Électronique,7416.59,1,7416.59,Carte Bancaire,Fès,F,35
+TXN_0486,CUST_007,2024-02-11,Électronique,565.89,2,1131.78,Livraison,Tanger,M,53
+TXN_0487,CUST_096,2024-06-14,Alimentation,361.62,1,361.62,Livraison,Fès,M,23
+TXN_0488,CUST_118,2024-03-22,Alimentation,902.73,1,902.73,Carte Bancaire,Marrakech,M,50
+TXN_0489,CUST_050,2024-10-17,Alimentation,1061.27,2,2122.54,Virement,Tanger,M,52
+TXN_0490,CUST_080,2024-06-06,Beauté,250.47,4,1001.88,Carte Bancaire,Marrakech,F,45
+TXN_0491,CUST_019,2024-08-03,Mode,1350.27,2,2700.54,Carte Bancaire,Rabat,M,64
+TXN_0492,CUST_069,2024-06-06,Maison,999.51,1,999.51,Livraison,Rabat,M,43
+TXN_0493,CUST_106,2024-05-13,Alimentation,149.29,1,149.29,Virement,Marrakech,M,66
+TXN_0494,CUST_142,2024-03-07,Mode,971.81,4,3887.24,Carte Bancaire,Casablanca,M,49
+TXN_0495,CUST_001,2024-12-01,Beauté,921.73,1,921.73,Livraison,Marrakech,F,61
+TXN_0496,CUST_095,2024-01-07,Mode,986.6,1,986.6,Livraison,Fès,F,55
+TXN_0497,CUST_053,2024-01-14,Électronique,4583.54,2,9167.08,Carte Bancaire,Tanger,F,35
+TXN_0498,CUST_170,2024-03-13,Maison,681.78,2,1363.56,Carte Bancaire,Casablanca,M,44
+TXN_0499,CUST_140,2024-06-11,Électronique,6265.93,2,12531.86,Livraison,Rabat,M,63
+TXN_0500,CUST_119,2024-03-06,Électronique,2420.34,1,2420.34,Carte Bancaire,Agadir,M,39
+TXN_0501,CUST_050,2024-12-12,Électronique,2908.38,1,2908.38,Virement,Tanger,M,52
+TXN_0502,CUST_184,2024-05-09,Maison,3457.58,4,13830.32,Virement,Casablanca,M,40
+TXN_0503,CUST_009,2024-07-24,Maison,2075.22,1,2075.22,Virement,Tanger,M,55
+TXN_0504,CUST_023,2024-10-02,Électronique,5600.01,2,11200.02,Carte Bancaire,Marrakech,M,44
+TXN_0505,CUST_080,2024-09-12,Alimentation,1517.88,2,3035.76,Virement,Marrakech,F,45
+TXN_0506,CUST_025,2024-09-22,Alimentation,1360.09,2,2720.18,Livraison,Fès,M,60
+TXN_0507,CUST_190,2024-01-25,Alimentation,530.85,2,1061.7,Carte Bancaire,Marrakech,F,45
+TXN_0508,CUST_159,2024-10-07,Électronique,8101.83,1,8101.83,Carte Bancaire,Tanger,F,29
+TXN_0509,CUST_048,2024-09-09,Alimentation,197.33,2,394.66,Carte Bancaire,Rabat,F,70
+TXN_0510,CUST_119,2024-11-05,Mode,1748.63,3,5245.89,Livraison,Agadir,M,39
+TXN_0511,CUST_196,2024-10-15,Électronique,7327.33,4,29309.32,Livraison,Marrakech,F,52
+TXN_0512,CUST_179,2024-06-12,Électronique,5331.55,1,5331.55,Carte Bancaire,Casablanca,F,70
+TXN_0513,CUST_122,2024-04-04,Alimentation,338.23,1,338.23,Livraison,Tanger,M,47
+TXN_0514,CUST_184,2024-09-26,Beauté,252.24,4,1008.96,Carte Bancaire,Casablanca,M,40
+TXN_0515,CUST_198,2024-11-16,Maison,2748.34,3,8245.02,Livraison,Marrakech,M,61
+TXN_0516,CUST_146,2024-04-19,Maison,1070.41,3,3211.23,Carte Bancaire,Casablanca,F,60
+TXN_0517,CUST_012,2024-12-01,Alimentation,272.96,1,272.96,Virement,Tanger,M,34
+TXN_0518,CUST_081,2024-11-05,Maison,3068.46,2,6136.92,Virement,Fès,M,18
+TXN_0519,CUST_166,2024-08-25,Électronique,6625.95,2,13251.9,Livraison,Marrakech,M,69
+TXN_0520,CUST_046,2024-01-25,Maison,3076.02,2,6152.04,Carte Bancaire,Marrakech,M,26
+TXN_0521,CUST_163,2024-05-20,Beauté,182.4,2,364.8,Carte Bancaire,Casablanca,F,43
+TXN_0522,CUST_024,2024-04-26,Maison,1353.5,1,1353.5,Virement,Rabat,F,64
+TXN_0523,CUST_009,2024-01-25,Mode,511.0,2,1022.0,Carte Bancaire,Tanger,M,55
+TXN_0524,CUST_077,2024-03-19,Mode,1822.53,1,1822.53,Carte Bancaire,Casablanca,M,62
+TXN_0525,CUST_007,2024-03-08,Électronique,3410.44,2,6820.88,Carte Bancaire,Tanger,M,53
+TXN_0526,CUST_190,2024-06-21,Beauté,1281.35,4,5125.4,Livraison,Marrakech,F,45
+TXN_0527,CUST_163,2024-01-12,Électronique,5840.5,2,11681.0,Livraison,Casablanca,F,43
+TXN_0528,CUST_160,2024-10-14,Maison,1731.13,3,5193.39,Virement,Tanger,F,39
+TXN_0529,CUST_125,2024-05-07,Électronique,4302.4,1,4302.4,Carte Bancaire,Tanger,M,34
+TXN_0530,CUST_041,2024-04-05,Électronique,1871.44,2,3742.88,Carte Bancaire,Tanger,F,42
+TXN_0531,CUST_106,2024-04-01,Alimentation,267.39,4,1069.56,Virement,Marrakech,M,66
+TXN_0532,CUST_121,2024-05-20,Alimentation,868.21,1,868.21,Virement,Marrakech,F,25
+TXN_0533,CUST_107,2024-01-31,Alimentation,453.69,1,453.69,Carte Bancaire,Casablanca,F,29
+TXN_0534,CUST_049,2024-11-29,Maison,957.31,2,1914.62,Livraison,Casablanca,F,24
+TXN_0535,CUST_106,2024-01-20,Électronique,6375.3,1,6375.3,Carte Bancaire,Marrakech,M,66
+TXN_0536,CUST_098,2024-05-25,Électronique,5096.89,3,15290.67,Virement,Marrakech,F,23
+TXN_0537,CUST_199,2024-11-11,Maison,3909.76,3,11729.28,Carte Bancaire,Marrakech,M,63
+TXN_0538,CUST_183,2024-06-08,Alimentation,624.37,2,1248.74,Virement,Marrakech,F,35
+TXN_0539,CUST_095,2024-12-14,Mode,1462.37,1,1462.37,Livraison,Fès,F,55
+TXN_0540,CUST_125,2024-02-12,Maison,2635.57,2,5271.14,Livraison,Tanger,M,34
+TXN_0541,CUST_148,2024-09-10,Mode,979.84,3,2939.52,Carte Bancaire,Casablanca,M,56
+TXN_0542,CUST_007,2024-05-09,Maison,3747.99,1,3747.99,Livraison,Tanger,M,53
+TXN_0543,CUST_181,2024-02-29,Alimentation,1584.05,2,3168.1,Livraison,Fès,M,53
+TXN_0544,CUST_170,2024-05-30,Maison,1318.03,2,2636.06,Carte Bancaire,Casablanca,M,44
+TXN_0545,CUST_093,2024-10-13,Électronique,3355.87,2,6711.74,Livraison,Agadir,F,23
+TXN_0546,CUST_079,2024-01-05,Alimentation,1120.16,1,1120.16,Virement,Rabat,F,47
+TXN_0547,CUST_050,2024-09-22,Mode,1061.86,2,2123.72,Livraison,Tanger,M,52
+TXN_0548,CUST_096,2024-12-10,Alimentation,1522.45,1,1522.45,Livraison,Fès,M,23
+TXN_0549,CUST_008,2024-05-09,Mode,638.96,1,638.96,Carte Bancaire,Fès,M,62
+TXN_0550,CUST_170,2024-09-23,Mode,1679.44,3,5038.32,Livraison,Casablanca,M,44
+TXN_0551,CUST_007,2024-06-26,Mode,1177.04,3,3531.12,Carte Bancaire,Tanger,M,53
+TXN_0552,CUST_067,2024-09-09,Beauté,339.07,1,339.07,Livraison,Rabat,M,44
+TXN_0553,CUST_186,2024-02-25,Alimentation,296.69,1,296.69,Virement,Rabat,M,52
+TXN_0554,CUST_142,2024-03-23,Alimentation,660.85,1,660.85,Livraison,Casablanca,M,49
+TXN_0555,CUST_051,2024-04-08,Maison,3160.28,1,3160.28,Carte Bancaire,Marrakech,F,57
+TXN_0556,CUST_047,2024-05-28,Alimentation,923.19,1,923.19,Carte Bancaire,Casablanca,M,31
+TXN_0557,CUST_001,2024-11-24,Maison,3098.56,1,3098.56,Livraison,Marrakech,F,61
+TXN_0558,CUST_136,2024-06-04,Maison,2812.87,2,5625.74,Livraison,Rabat,M,65
+TXN_0559,CUST_009,2024-07-08,Maison,3867.71,3,11603.13,Virement,Tanger,M,55
+TXN_0560,CUST_109,2024-09-19,Alimentation,196.67,2,393.34,Virement,Casablanca,M,33
+TXN_0561,CUST_194,2024-03-20,Électronique,8219.78,2,16439.56,Livraison,Rabat,M,56
+TXN_0562,CUST_023,2024-09-08,Alimentation,86.36,1,86.36,Carte Bancaire,Marrakech,M,44
+TXN_0563,CUST_181,2024-04-06,Électronique,384.22,4,1536.88,Carte Bancaire,Fès,M,53
+TXN_0564,CUST_198,2024-09-16,Beauté,1165.84,3,3497.52,Carte Bancaire,Marrakech,M,61
+TXN_0565,CUST_011,2024-09-16,Alimentation,1099.06,3,3297.18,Carte Bancaire,Marrakech,F,50
+TXN_0566,CUST_179,2024-04-12,Électronique,2978.8,3,8936.4,Livraison,Casablanca,F,70
+TXN_0567,CUST_106,2024-02-09,Électronique,700.56,4,2802.24,Livraison,Marrakech,M,66
+TXN_0568,CUST_184,2024-09-29,Maison,1665.19,2,3330.38,Livraison,Casablanca,M,40
+TXN_0569,CUST_116,2024-04-10,Maison,653.26,1,653.26,Carte Bancaire,Casablanca,F,31
+TXN_0570,CUST_129,2024-12-24,Alimentation,1055.57,2,2111.14,Livraison,Marrakech,M,50
+TXN_0571,CUST_113,2024-11-03,Électronique,6945.44,3,20836.32,Carte Bancaire,Fès,M,42
+TXN_0572,CUST_173,2024-08-08,Alimentation,704.4,3,2113.2,Carte Bancaire,Marrakech,M,18
+TXN_0573,CUST_142,2024-11-03,Alimentation,824.26,2,1648.52,Virement,Casablanca,M,49
+TXN_0574,CUST_106,2024-05-03,Maison,2736.08,1,2736.08,Carte Bancaire,Marrakech,M,66
+TXN_0575,CUST_175,2024-08-18,Maison,2957.84,2,5915.68,Livraison,Casablanca,F,63
+TXN_0576,CUST_046,2024-06-26,Alimentation,711.47,4,2845.88,Carte Bancaire,Marrakech,M,26
+TXN_0577,CUST_033,2024-03-03,Électronique,6378.55,2,12757.1,Virement,Marrakech,F,43
+TXN_0578,CUST_034,2024-04-25,Beauté,803.47,2,1606.94,Livraison,Marrakech,F,20
+TXN_0579,CUST_068,2024-07-09,Alimentation,116.49,1,116.49,Carte Bancaire,Tanger,F,64
+TXN_0580,CUST_046,2024-03-02,Maison,2363.98,2,4727.96,Livraison,Marrakech,M,26
+TXN_0581,CUST_186,2024-09-12,Électronique,3115.9,3,9347.7,Virement,Rabat,M,52
+TXN_0582,CUST_022,2024-01-07,Alimentation,589.76,2,1179.52,Virement,Casablanca,F,45
+TXN_0583,CUST_137,2024-06-03,Électronique,6145.83,3,18437.49,Carte Bancaire,Tanger,F,43
+TXN_0584,CUST_038,2024-04-01,Alimentation,349.17,2,698.34,Virement,Tanger,F,30
+TXN_0585,CUST_178,2024-01-14,Beauté,191.99,2,383.98,Virement,Marrakech,F,51
+TXN_0586,CUST_193,2024-08-16,Alimentation,229.6,1,229.6,Virement,Fès,F,38
+TXN_0587,CUST_095,2024-03-26,Électronique,3684.25,2,7368.5,Livraison,Fès,F,55
+TXN_0588,CUST_177,2024-05-12,Électronique,6855.03,2,13710.06,Livraison,Fès,M,46
+TXN_0589,CUST_001,2024-07-01,Alimentation,1534.22,2,3068.44,Livraison,Marrakech,F,61
+TXN_0590,CUST_161,2024-03-02,Électronique,4196.82,2,8393.64,Virement,Casablanca,F,22
+TXN_0591,CUST_046,2024-08-06,Électronique,3828.06,4,15312.24,Livraison,Marrakech,M,26
+TXN_0592,CUST_184,2024-09-02,Mode,773.79,1,773.79,Livraison,Casablanca,M,40
+TXN_0593,CUST_001,2024-08-17,Alimentation,991.03,3,2973.09,Livraison,Marrakech,F,61
+TXN_0594,CUST_115,2024-03-19,Alimentation,1187.56,1,1187.56,Virement,Agadir,F,58
+TXN_0595,CUST_150,2024-05-28,Beauté,1341.64,2,2683.28,Virement,Fès,M,57
+TXN_0596,CUST_048,2024-05-17,Électronique,8425.62,1,8425.62,Carte Bancaire,Rabat,F,70
+TXN_0597,CUST_038,2024-11-09,Beauté,413.52,2,827.04,Virement,Tanger,F,30
+TXN_0598,CUST_016,2024-03-05,Alimentation,559.35,2,1118.7,Livraison,Marrakech,F,59
+TXN_0599,CUST_066,2024-01-13,Beauté,1216.14,1,1216.14,Virement,Fès,M,54
+TXN_0600,CUST_115,2024-07-31,Maison,946.25,2,1892.5,Livraison,Agadir,F,58
+TXN_0601,CUST_024,2024-08-29,Mode,1351.71,4,5406.84,Carte Bancaire,Rabat,F,64
+TXN_0602,CUST_076,2024-07-31,Beauté,311.14,1,311.14,Virement,Marrakech,M,68
+TXN_0603,CUST_001,2024-06-29,Alimentation,677.58,3,2032.74,Carte Bancaire,Marrakech,F,61
+TXN_0604,CUST_161,2024-12-03,Beauté,1208.67,2,2417.34,Virement,Casablanca,F,22
+TXN_0605,CUST_025,2024-06-21,Alimentation,440.12,2,880.24,Livraison,Fès,M,60
+TXN_0606,CUST_051,2024-06-08,Alimentation,227.39,1,227.39,Livraison,Marrakech,F,57
+TXN_0607,CUST_005,2024-06-12,Alimentation,352.13,1,352.13,Carte Bancaire,Agadir,M,45
+TXN_0608,CUST_084,2024-07-06,Maison,2092.16,1,2092.16,Livraison,Agadir,F,54
+TXN_0609,CUST_167,2024-07-09,Électronique,2407.74,1,2407.74,Carte Bancaire,Fès,M,49
+TXN_0610,CUST_080,2024-11-03,Maison,1351.93,1,1351.93,Carte Bancaire,Marrakech,F,45
+TXN_0611,CUST_035,2024-09-12,Maison,1795.75,2,3591.5,Carte Bancaire,Fès,F,63
+TXN_0612,CUST_149,2024-07-01,Mode,2191.04,3,6573.12,Carte Bancaire,Casablanca,F,69
+TXN_0613,CUST_158,2024-04-26,Mode,1014.05,3,3042.15,Virement,Marrakech,M,22
+TXN_0614,CUST_034,2024-10-08,Alimentation,1292.22,2,2584.44,Virement,Marrakech,F,20
+TXN_0615,CUST_154,2024-07-14,Alimentation,1109.87,1,1109.87,Livraison,Casablanca,F,26
+TXN_0616,CUST_188,2024-02-03,Électronique,1259.94,1,1259.94,Virement,Marrakech,F,36
+TXN_0617,CUST_034,2024-02-21,Électronique,5343.98,2,10687.96,Carte Bancaire,Marrakech,F,20
+TXN_0618,CUST_154,2024-04-21,Électronique,8730.03,1,8730.03,Livraison,Casablanca,F,26
+TXN_0619,CUST_139,2024-09-08,Alimentation,911.33,2,1822.66,Virement,Casablanca,F,53
+TXN_0620,CUST_096,2024-03-22,Électronique,3524.99,2,7049.98,Virement,Fès,M,23
+TXN_0621,CUST_010,2024-08-19,Beauté,107.33,2,214.66,Livraison,Agadir,F,33
+TXN_0622,CUST_014,2024-08-14,Maison,2634.09,2,5268.18,Virement,Tanger,M,38
+TXN_0623,CUST_170,2024-08-20,Alimentation,802.14,3,2406.42,Carte Bancaire,Casablanca,M,44
+TXN_0624,CUST_198,2024-08-08,Maison,3019.08,3,9057.24,Virement,Marrakech,M,61
+TXN_0625,CUST_133,2024-02-11,Électronique,745.92,2,1491.84,Carte Bancaire,Tanger,F,49
+TXN_0626,CUST_087,2024-01-21,Alimentation,1482.1,3,4446.3,Livraison,Tanger,F,66
+TXN_0627,CUST_127,2024-02-11,Maison,1044.07,4,4176.28,Livraison,Marrakech,F,58
+TXN_0628,CUST_121,2024-04-22,Alimentation,190.56,2,381.12,Livraison,Marrakech,F,25
+TXN_0629,CUST_077,2024-04-14,Alimentation,506.51,2,1013.02,Carte Bancaire,Casablanca,M,62
+TXN_0630,CUST_012,2024-07-10,Beauté,760.43,2,1520.86,Virement,Tanger,M,34
+TXN_0631,CUST_161,2024-01-17,Beauté,1097.97,4,4391.88,Carte Bancaire,Casablanca,F,22
+TXN_0632,CUST_075,2024-04-29,Maison,1710.5,3,5131.5,Livraison,Fès,M,53
+TXN_0633,CUST_161,2024-05-08,Maison,1186.27,1,1186.27,Carte Bancaire,Casablanca,F,22
+TXN_0634,CUST_047,2024-05-09,Maison,914.73,2,1829.46,Carte Bancaire,Casablanca,M,31
+TXN_0635,CUST_001,2024-02-29,Électronique,3185.89,2,6371.78,Livraison,Marrakech,F,61
+TXN_0636,CUST_033,2024-02-17,Alimentation,611.91,2,1223.82,Livraison,Marrakech,F,43
+TXN_0637,CUST_095,2024-01-29,Électronique,4652.2,1,4652.2,Carte Bancaire,Fès,F,55
+TXN_0638,CUST_188,2024-04-06,Alimentation,1269.29,3,3807.87,Carte Bancaire,Marrakech,F,36
+TXN_0639,CUST_022,2024-01-10,Maison,3166.04,2,6332.08,Livraison,Casablanca,F,45
+TXN_0640,CUST_170,2024-08-29,Électronique,1624.92,3,4874.76,Virement,Casablanca,M,44
+TXN_0641,CUST_107,2024-11-09,Beauté,1314.58,3,3943.74,Virement,Casablanca,F,29
+TXN_0642,CUST_163,2024-08-19,Beauté,1281.05,3,3843.15,Carte Bancaire,Casablanca,F,43
+TXN_0643,CUST_054,2024-10-03,Mode,2033.45,2,4066.9,Livraison,Rabat,M,53
+TXN_0644,CUST_167,2024-10-10,Maison,3650.62,2,7301.24,Carte Bancaire,Fès,M,49
+TXN_0645,CUST_154,2024-07-21,Mode,824.54,1,824.54,Carte Bancaire,Casablanca,F,26
+TXN_0646,CUST_046,2024-09-03,Électronique,5991.3,2,11982.6,Livraison,Marrakech,M,26
+TXN_0647,CUST_026,2024-10-16,Mode,214.94,1,214.94,Livraison,Agadir,F,48
+TXN_0648,CUST_175,2024-09-20,Électronique,8980.19,2,17960.38,Carte Bancaire,Casablanca,F,63
+TXN_0649,CUST_194,2024-08-01,Mode,528.91,1,528.91,Carte Bancaire,Rabat,M,56
+TXN_0650,CUST_006,2024-07-18,Électronique,4175.31,1,4175.31,Carte Bancaire,Rabat,M,63
+TXN_0651,CUST_142,2024-03-19,Beauté,1163.71,1,1163.71,Virement,Casablanca,M,49
+TXN_0652,CUST_184,2024-12-08,Beauté,1253.53,1,1253.53,Virement,Casablanca,M,40
+TXN_0653,CUST_170,2024-12-09,Électronique,3321.61,2,6643.22,Carte Bancaire,Casablanca,M,44
+TXN_0654,CUST_194,2024-06-21,Alimentation,1588.62,3,4765.86,Carte Bancaire,Rabat,M,56
+TXN_0655,CUST_151,2024-03-09,Beauté,350.98,2,701.96,Virement,Rabat,M,59
+TXN_0656,CUST_086,2024-03-27,Alimentation,445.82,1,445.82,Virement,Marrakech,F,49
+TXN_0657,CUST_059,2024-04-10,Mode,979.26,1,979.26,Livraison,Casablanca,M,18
+TXN_0658,CUST_063,2024-01-08,Maison,1575.39,1,1575.39,Carte Bancaire,Rabat,F,56
+TXN_0659,CUST_141,2024-11-28,Alimentation,1408.95,1,1408.95,Carte Bancaire,Rabat,M,40
+TXN_0660,CUST_147,2024-07-18,Alimentation,1342.55,3,4027.65,Livraison,Casablanca,M,70
+TXN_0661,CUST_039,2024-03-27,Électronique,3726.2,1,3726.2,Livraison,Marrakech,F,36
+TXN_0662,CUST_175,2024-02-12,Mode,561.23,2,1122.46,Carte Bancaire,Casablanca,F,63
+TXN_0663,CUST_139,2024-04-18,Alimentation,421.48,1,421.48,Livraison,Casablanca,F,53
+TXN_0664,CUST_116,2024-05-31,Maison,3042.42,1,3042.42,Carte Bancaire,Casablanca,F,31
+TXN_0665,CUST_096,2024-01-17,Alimentation,686.99,2,1373.98,Virement,Fès,M,23
+TXN_0666,CUST_113,2024-05-12,Maison,3603.43,2,7206.86,Carte Bancaire,Fès,M,42
+TXN_0667,CUST_033,2024-05-27,Mode,100.48,1,100.48,Carte Bancaire,Marrakech,F,43
+TXN_0668,CUST_039,2024-10-03,Beauté,462.28,1,462.28,Livraison,Marrakech,F,36
+TXN_0669,CUST_019,2024-08-19,Alimentation,702.7,2,1405.4,Livraison,Rabat,M,64
+TXN_0670,CUST_033,2024-11-09,Mode,2021.5,1,2021.5,Virement,Marrakech,F,43
+TXN_0671,CUST_093,2024-12-31,Mode,1872.15,1,1872.15,Livraison,Agadir,F,23
+TXN_0672,CUST_108,2024-08-15,Maison,3407.58,4,13630.32,Carte Bancaire,Tanger,M,26
+TXN_0673,CUST_004,2024-05-18,Beauté,468.55,2,937.1,Livraison,Agadir,M,37
+TXN_0674,CUST_159,2024-07-29,Électronique,1213.29,2,2426.58,Carte Bancaire,Tanger,F,29
+TXN_0675,CUST_052,2024-01-28,Électronique,7972.81,2,15945.62,Virement,Rabat,F,59
+TXN_0676,CUST_184,2024-02-20,Mode,1658.81,2,3317.62,Carte Bancaire,Casablanca,M,40
+TXN_0677,CUST_194,2024-09-17,Alimentation,1566.9,2,3133.8,Livraison,Rabat,M,56
+TXN_0678,CUST_037,2024-09-17,Mode,452.41,2,904.82,Carte Bancaire,Fès,F,43
+TXN_0679,CUST_094,2024-12-15,Beauté,583.94,2,1167.88,Livraison,Casablanca,M,28
+TXN_0680,CUST_001,2024-12-17,Électronique,3850.47,1,3850.47,Virement,Marrakech,F,61
+TXN_0681,CUST_122,2024-01-08,Beauté,605.25,2,1210.5,Virement,Tanger,M,47
+TXN_0682,CUST_123,2024-11-15,Alimentation,354.96,2,709.92,Carte Bancaire,Tanger,M,50
+TXN_0683,CUST_046,2024-05-17,Maison,853.83,3,2561.49,Carte Bancaire,Marrakech,M,26
+TXN_0684,CUST_115,2024-02-07,Maison,3831.72,2,7663.44,Virement,Agadir,F,58
+TXN_0685,CUST_046,2024-04-20,Beauté,803.37,2,1606.74,Virement,Marrakech,M,26
+TXN_0686,CUST_034,2024-08-07,Électronique,3608.01,1,3608.01,Carte Bancaire,Marrakech,F,20
+TXN_0687,CUST_127,2024-12-02,Alimentation,1294.72,2,2589.44,Livraison,Marrakech,F,58
+TXN_0688,CUST_066,2024-08-10,Maison,1600.2,1,1600.2,Carte Bancaire,Fès,M,54
+TXN_0689,CUST_119,2024-05-15,Mode,352.76,2,705.52,Virement,Agadir,M,39
+TXN_0690,CUST_085,2024-09-12,Maison,1456.08,1,1456.08,Carte Bancaire,Rabat,F,41
+TXN_0691,CUST_197,2024-12-25,Électronique,6005.27,2,12010.54,Carte Bancaire,Marrakech,F,35
+TXN_0692,CUST_032,2024-11-24,Alimentation,587.97,1,587.97,Virement,Rabat,M,28
+TXN_0693,CUST_095,2024-02-18,Alimentation,1190.92,2,2381.84,Carte Bancaire,Fès,F,55
+TXN_0694,CUST_134,2024-10-18,Mode,241.97,3,725.91,Livraison,Rabat,F,44
+TXN_0695,CUST_080,2024-11-19,Alimentation,718.42,1,718.42,Livraison,Marrakech,F,45
+TXN_0696,CUST_195,2024-03-18,Électronique,4089.89,2,8179.78,Carte Bancaire,Casablanca,F,56
+TXN_0697,CUST_141,2024-04-14,Beauté,299.44,2,598.88,Livraison,Rabat,M,40
+TXN_0698,CUST_128,2024-06-17,Électronique,5904.45,1,5904.45,Livraison,Marrakech,F,63
+TXN_0699,CUST_150,2024-08-04,Beauté,995.53,3,2986.59,Carte Bancaire,Fès,M,57
+TXN_0700,CUST_190,2024-04-28,Maison,390.36,1,390.36,Livraison,Marrakech,F,45
+TXN_0701,CUST_184,2024-07-08,Mode,1620.46,2,3240.92,Virement,Casablanca,M,40
+TXN_0702,CUST_141,2024-09-11,Alimentation,959.11,2,1918.22,Virement,Rabat,M,40
+TXN_0703,CUST_148,2024-09-22,Électronique,740.73,2,1481.46,Carte Bancaire,Casablanca,M,56
+TXN_0704,CUST_031,2024-05-28,Mode,2050.5,2,4101.0,Carte Bancaire,Tanger,F,26
+TXN_0705,CUST_022,2024-06-12,Mode,1004.13,1,1004.13,Carte Bancaire,Casablanca,F,45
+TXN_0706,CUST_116,2024-05-19,Mode,350.2,1,350.2,Carte Bancaire,Casablanca,F,31
+TXN_0707,CUST_005,2024-12-12,Électronique,7360.77,3,22082.31,Livraison,Agadir,M,45
+TXN_0708,CUST_097,2024-09-14,Mode,1176.02,2,2352.04,Livraison,Fès,M,33
+TXN_0709,CUST_039,2024-09-25,Mode,832.55,3,2497.65,Carte Bancaire,Marrakech,F,36
+TXN_0710,CUST_071,2024-06-29,Maison,2021.77,3,6065.31,Carte Bancaire,Agadir,F,59
+TXN_0711,CUST_155,2024-06-08,Mode,887.13,3,2661.39,Livraison,Rabat,F,18
+TXN_0712,CUST_188,2024-12-16,Mode,1404.79,2,2809.58,Livraison,Marrakech,F,36
+TXN_0713,CUST_013,2024-10-14,Maison,569.7,2,1139.4,Carte Bancaire,Fès,F,27
+TXN_0714,CUST_111,2024-10-14,Électronique,8476.43,3,25429.29,Livraison,Tanger,F,25
+TXN_0715,CUST_179,2024-08-13,Alimentation,1345.57,2,2691.14,Carte Bancaire,Casablanca,F,70
+TXN_0716,CUST_016,2024-01-11,Électronique,5909.14,1,5909.14,Virement,Marrakech,F,59
+TXN_0717,CUST_163,2024-01-10,Alimentation,1302.33,3,3906.99,Virement,Casablanca,F,43
+TXN_0718,CUST_073,2024-09-27,Alimentation,1396.96,3,4190.88,Carte Bancaire,Tanger,F,49
+TXN_0719,CUST_063,2024-09-29,Électronique,8600.18,2,17200.36,Carte Bancaire,Rabat,F,56
+TXN_0720,CUST_196,2024-07-01,Alimentation,170.62,1,170.62,Livraison,Marrakech,F,52
+TXN_0721,CUST_039,2024-06-01,Électronique,1532.6,2,3065.2,Carte Bancaire,Marrakech,F,36
+TXN_0722,CUST_135,2024-11-10,Mode,1609.31,3,4827.93,Livraison,Fès,F,57
+TXN_0723,CUST_161,2024-11-29,Beauté,309.51,3,928.53,Virement,Casablanca,F,22
+TXN_0724,CUST_007,2024-05-03,Électronique,4401.26,1,4401.26,Livraison,Tanger,M,53
+TXN_0725,CUST_132,2024-04-23,Beauté,496.5,1,496.5,Virement,Tanger,M,20
+TXN_0726,CUST_189,2024-10-04,Maison,1106.88,3,3320.64,Livraison,Fès,F,58
+TXN_0727,CUST_025,2024-07-31,Alimentation,1131.92,2,2263.84,Carte Bancaire,Fès,M,60
+TXN_0728,CUST_182,2024-06-20,Électronique,5495.9,2,10991.8,Virement,Casablanca,M,52
+TXN_0729,CUST_121,2024-10-14,Alimentation,292.78,4,1171.12,Carte Bancaire,Marrakech,F,25
+TXN_0730,CUST_124,2024-06-22,Mode,332.27,1,332.27,Livraison,Casablanca,M,36
+TXN_0731,CUST_124,2024-04-22,Maison,1370.23,2,2740.46,Carte Bancaire,Casablanca,M,36
+TXN_0732,CUST_055,2024-05-01,Électronique,5319.28,1,5319.28,Carte Bancaire,Tanger,M,25
+TXN_0733,CUST_186,2024-02-01,Électronique,3732.86,2,7465.72,Virement,Rabat,M,52
+TXN_0734,CUST_188,2024-08-09,Alimentation,712.04,3,2136.12,Carte Bancaire,Marrakech,F,36
+TXN_0735,CUST_125,2024-04-28,Alimentation,913.85,2,1827.7,Virement,Tanger,M,34
+TXN_0736,CUST_157,2024-02-08,Électronique,3175.14,4,12700.56,Virement,Casablanca,M,18
+TXN_0737,CUST_124,2024-09-24,Alimentation,692.16,2,1384.32,Virement,Casablanca,M,36
+TXN_0738,CUST_097,2024-08-20,Mode,174.74,2,349.48,Livraison,Fès,M,33
+TXN_0739,CUST_129,2024-01-18,Beauté,749.38,1,749.38,Livraison,Marrakech,M,50
+TXN_0740,CUST_115,2024-05-28,Alimentation,869.81,2,1739.62,Virement,Agadir,F,58
+TXN_0741,CUST_122,2024-05-28,Beauté,1133.34,2,2266.68,Carte Bancaire,Tanger,M,47
+TXN_0742,CUST_157,2024-05-05,Alimentation,1594.72,1,1594.72,Livraison,Casablanca,M,18
+TXN_0743,CUST_096,2024-10-28,Alimentation,285.53,2,571.06,Livraison,Fès,M,23
+TXN_0744,CUST_007,2024-12-25,Électronique,1316.05,2,2632.1,Livraison,Tanger,M,53
+TXN_0745,CUST_034,2024-08-25,Maison,3263.98,3,9791.94,Livraison,Marrakech,F,20
+TXN_0746,CUST_086,2024-05-14,Beauté,1058.7,2,2117.4,Carte Bancaire,Marrakech,F,49
+TXN_0747,CUST_141,2024-05-30,Maison,3520.63,2,7041.26,Livraison,Rabat,M,40
+TXN_0748,CUST_120,2024-08-23,Alimentation,1106.69,1,1106.69,Virement,Casablanca,F,55
+TXN_0749,CUST_127,2024-08-11,Maison,1314.5,1,1314.5,Carte Bancaire,Marrakech,F,58
+TXN_0750,CUST_096,2024-07-21,Électronique,3647.33,2,7294.66,Virement,Fès,M,23
+TXN_0751,CUST_124,2024-09-12,Beauté,935.65,2,1871.3,Livraison,Casablanca,M,36
+TXN_0752,CUST_067,2024-03-26,Alimentation,681.92,1,681.92,Virement,Rabat,M,44
+TXN_0753,CUST_095,2024-05-29,Alimentation,282.17,3,846.51,Livraison,Fès,F,55
+TXN_0754,CUST_146,2024-08-22,Maison,3455.99,3,10367.97,Virement,Casablanca,F,60
+TXN_0755,CUST_176,2024-12-10,Maison,3450.34,2,6900.68,Carte Bancaire,Casablanca,F,52
+TXN_0756,CUST_085,2024-01-22,Électronique,1631.42,1,1631.42,Virement,Rabat,F,41
+TXN_0757,CUST_008,2024-12-13,Maison,3093.91,3,9281.73,Carte Bancaire,Fès,M,62
+TXN_0758,CUST_034,2024-10-11,Électronique,6662.42,2,13324.84,Virement,Marrakech,F,20
+TXN_0759,CUST_005,2024-09-25,Mode,2188.09,3,6564.27,Virement,Agadir,M,45
+TXN_0760,CUST_127,2024-09-14,Mode,588.73,3,1766.19,Carte Bancaire,Marrakech,F,58
+TXN_0761,CUST_067,2024-01-29,Mode,213.04,3,639.12,Carte Bancaire,Rabat,M,44
+TXN_0762,CUST_113,2024-07-31,Maison,714.78,2,1429.56,Virement,Fès,M,42
+TXN_0763,CUST_098,2024-10-09,Maison,2807.74,1,2807.74,Carte Bancaire,Marrakech,F,23
+TXN_0764,CUST_015,2024-02-19,Électronique,2037.71,2,4075.42,Virement,Marrakech,F,55
+TXN_0765,CUST_082,2024-04-04,Mode,498.74,2,997.48,Carte Bancaire,Casablanca,F,69
+TXN_0766,CUST_043,2024-03-28,Électronique,715.37,3,2146.11,Carte Bancaire,Casablanca,M,32
+TXN_0767,CUST_082,2024-02-13,Alimentation,321.28,1,321.28,Virement,Casablanca,F,69
+TXN_0768,CUST_039,2024-10-04,Alimentation,1522.9,1,1522.9,Livraison,Marrakech,F,36
+TXN_0769,CUST_167,2024-06-19,Électronique,5060.82,3,15182.46,Virement,Fès,M,49
+TXN_0770,CUST_034,2024-07-07,Maison,3788.34,3,11365.02,Carte Bancaire,Marrakech,F,20
+TXN_0771,CUST_193,2024-12-18,Électronique,5438.02,3,16314.06,Livraison,Fès,F,38
+TXN_0772,CUST_082,2024-07-02,Mode,181.81,3,545.43,Livraison,Casablanca,F,69
+TXN_0773,CUST_168,2024-01-03,Alimentation,1416.99,2,2833.98,Livraison,Marrakech,M,21
+TXN_0774,CUST_125,2024-07-09,Électronique,7872.83,2,15745.66,Livraison,Tanger,M,34
+TXN_0775,CUST_142,2024-04-27,Maison,2777.78,3,8333.34,Livraison,Casablanca,M,49
+TXN_0776,CUST_153,2024-01-19,Électronique,5277.44,2,10554.88,Livraison,Agadir,F,54
+TXN_0777,CUST_101,2024-01-23,Électronique,3240.23,2,6480.46,Carte Bancaire,Fès,F,58
+TXN_0778,CUST_113,2024-01-30,Maison,1426.72,1,1426.72,Virement,Fès,M,42
+TXN_0779,CUST_106,2024-10-21,Électronique,7266.5,2,14533.0,Carte Bancaire,Marrakech,M,66
+TXN_0780,CUST_119,2024-04-17,Mode,922.8,2,1845.6,Livraison,Agadir,M,39
+TXN_0781,CUST_006,2024-10-07,Électronique,4954.45,1,4954.45,Carte Bancaire,Rabat,M,63
+TXN_0782,CUST_080,2024-05-07,Électronique,897.67,1,897.67,Livraison,Marrakech,F,45
+TXN_0783,CUST_123,2024-08-16,Mode,1785.04,2,3570.08,Virement,Tanger,M,50
+TXN_0784,CUST_122,2024-04-20,Alimentation,1458.7,1,1458.7,Carte Bancaire,Tanger,M,47
+TXN_0785,CUST_158,2024-05-15,Électronique,5179.48,1,5179.48,Carte Bancaire,Marrakech,M,22
+TXN_0786,CUST_128,2024-12-27,Alimentation,1587.13,2,3174.26,Carte Bancaire,Marrakech,F,63
+TXN_0787,CUST_198,2024-07-04,Électronique,8190.56,3,24571.68,Livraison,Marrakech,M,61
+TXN_0788,CUST_051,2024-05-23,Mode,816.61,2,1633.22,Virement,Marrakech,F,57
+TXN_0789,CUST_073,2024-03-12,Alimentation,396.64,1,396.64,Carte Bancaire,Tanger,F,49
+TXN_0790,CUST_077,2024-05-08,Mode,1032.79,1,1032.79,Virement,Casablanca,M,62
+TXN_0791,CUST_095,2024-12-29,Beauté,294.06,2,588.12,Carte Bancaire,Fès,F,55
+TXN_0792,CUST_165,2024-09-17,Alimentation,620.27,2,1240.54,Livraison,Agadir,M,27
+TXN_0793,CUST_046,2024-01-03,Beauté,806.63,3,2419.89,Virement,Marrakech,M,26
+TXN_0794,CUST_155,2024-04-13,Alimentation,1097.21,2,2194.42,Carte Bancaire,Rabat,F,18
+TXN_0795,CUST_082,2024-08-11,Beauté,204.55,3,613.65,Livraison,Casablanca,F,69
+TXN_0796,CUST_122,2024-11-15,Électronique,3687.55,1,3687.55,Carte Bancaire,Tanger,M,47
+TXN_0797,CUST_126,2024-12-27,Maison,2077.23,2,4154.46,Carte Bancaire,Marrakech,F,63
+TXN_0798,CUST_076,2024-12-19,Alimentation,815.38,1,815.38,Carte Bancaire,Marrakech,M,68
+TXN_0799,CUST_105,2024-01-10,Alimentation,715.95,4,2863.8,Carte Bancaire,Casablanca,M,43
+TXN_0800,CUST_082,2024-10-28,Maison,2636.04,2,5272.08,Livraison,Casablanca,F,69
